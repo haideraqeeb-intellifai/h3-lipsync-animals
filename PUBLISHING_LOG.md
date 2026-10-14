@@ -1,8 +1,8 @@
 # Publishing log
 
-## 2026-10-14 06:35 IST (UTC+05:30)
+## 2026-10-14 06:37 IST (UTC+05:30)
 
-Prepared `haideraqeeb-intellifai/h3-lipsync-animals` as a public snapshot of
+Published `haideraqeeb-intellifai/h3-lipsync-animals` as a public snapshot of
 the rectangular-mask animal lip-sync experiment. Inventory: 30 prepared
 image/audio/prompt cases; 15 completed raw H3 generations and per-run logs,
 workflows, reports, and audits; 15 exported comparison videos with a scrolling
