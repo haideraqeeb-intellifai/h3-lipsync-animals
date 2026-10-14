@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, Forest Friends! It is Orion here, perched on my favorite oak branch. Today, let us talk about the simple art of asking better questions in our daily lives. We often ask closed questions. You know, things like, did you sleep well?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "Hello there, Forest Friends! It is Orion here, perched on my favorite oak branch."
+    },
+    {
+      "start": 5.12,
+      "end": 10.64,
+      "text": "Today, let us talk about the simple art of asking better questions in our daily lives."
+    },
+    {
+      "start": 10.64,
+      "end": 14.88,
+      "text": "We often ask closed questions. You know, things like, did you sleep well?"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

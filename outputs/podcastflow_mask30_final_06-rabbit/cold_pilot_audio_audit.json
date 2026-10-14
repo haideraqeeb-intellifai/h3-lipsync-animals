@@ -1,0 +1,41 @@
+{
+  "animal_mask_latent_box": [
+    8,
+    2,
+    34,
+    62
+  ],
+  "gesture_mask_ellipses": [],
+  "video_mask_fraction": 0.5571428537368774,
+  "audio_latent_shape": [
+    1,
+    32,
+    2,
+    603
+  ],
+  "source_audio_samples": 720000,
+  "source_sample_rate": 48000,
+  "model_sample_rate": 32000,
+  "audio_mask": 0,
+  "video_mask": "animal_rectangle",
+  "forward_audio_checks": [
+    {
+      "timestep": 1000.0,
+      "max_error_after_compute_cast": 0.0
+    },
+    {
+      "timestep": 972.9729614257812,
+      "max_error_after_compute_cast": 0.0
+    },
+    {
+      "timestep": 923.076904296875,
+      "max_error_after_compute_cast": 0.0
+    },
+    {
+      "timestep": 800.0,
+      "max_error_after_compute_cast": 0.0
+    }
+  ],
+  "output_audio_latent_max_error": 0.0,
+  "output_video_latent_outside_mask_max_error": 0.0
+}

@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136de-2b5c-7206-95fb-36a37b07986a.mp4",
+  "animal": "Rhinoceros",
+  "presenter": "Rina Rhinoceros",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/rina-rhinoceros-01a136dd-eb4c-70c9-b568-533f17392ec2-headshot.jpg",
+  "id": "14-rhinoceros",
+  "number": 14,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "7422e9494061d391928e66160ece46ad02fcfbfa58fa980502095fc239c0d239",
+  "audio_sha256": "cfa79903fda00513aade260898583ed15c29e3f1dfd66c725df9c906e2bf598c",
+  "animal_mask_box": [
+    0.17,
+    0.15,
+    0.88,
+    0.87
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "ab578c2e82947382903ad4d452fee5bfe0ddbccecef889d97142c3ddbf2c5a61",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "7422e9494061d391928e66160ece46ad02fcfbfa58fa980502095fc239c0d239",
+    "audio.wav": "cfa79903fda00513aade260898583ed15c29e3f1dfd66c725df9c906e2bf598c",
+    "prompt.txt": "edf4de0e4d5abe838f633a421afd0542c83493fbdef095bdce70826437040f7a"
+  }
+}

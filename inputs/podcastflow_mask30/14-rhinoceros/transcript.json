@@ -1,0 +1,22 @@
+{
+  "text": "Hello everyone. It is me, Rina the Rhinoceros, back again for another tiny chat. I hope you are all doing wonderful in your own corner of the world today. I want to talk about something that feel.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "text": "Hello everyone. It is me, Rina the Rhinoceros, back again for another tiny chat. I hope you"
+    },
+    {
+      "start": 8.16,
+      "end": 14.4,
+      "text": "are all doing wonderful in your own corner of the world today. I want to talk about something"
+    },
+    {
+      "start": 14.4,
+      "end": 16.4,
+      "text": "that feel."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

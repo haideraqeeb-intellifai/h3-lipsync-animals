@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dd-d7b4-73aa-94b8-4f0303d7eeb7.mp4",
+  "animal": "Elephant",
+  "presenter": "Eli Elephant",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/eli-elephant-01a136dd-8c09-7124-9901-2f2790f2ea81-headshot.jpg",
+  "id": "13-elephant",
+  "number": 13,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "f176f63612bae030b77ae2edcca8dec261a2a7e8cf420faa9eead0a2385604eb",
+  "audio_sha256": "8919df4a654e0a41551a7ef496bae1e32517b8a0938e8acdcab08001b8b04114",
+  "animal_mask_box": [
+    0.01,
+    0.11,
+    0.99,
+    0.89
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "c772c6194554eea25a75104ca73d4dea0f076fdf3dff79bc2a0daeb220ee84d1",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "f176f63612bae030b77ae2edcca8dec261a2a7e8cf420faa9eead0a2385604eb",
+    "audio.wav": "8919df4a654e0a41551a7ef496bae1e32517b8a0938e8acdcab08001b8b04114",
+    "prompt.txt": "7c1ccc778ffaad11a04bee63c196dedbc3264c071d2136fdce8a951deb1b6c7e"
+  }
+}

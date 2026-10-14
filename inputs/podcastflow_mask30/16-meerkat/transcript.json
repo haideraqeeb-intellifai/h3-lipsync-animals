@@ -1,0 +1,22 @@
+{
+  "text": "Hello there sunshine, it is me Mira, your favorite neighborhood meerkat. Are you feeling curious today? Because the world out here is just bursting with tiny little wonders waiting for us. Have you ever just stopped to watch a beetle push a crumb?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Hello there sunshine, it is me Mira, your favorite neighborhood meerkat."
+    },
+    {
+      "start": 4.72,
+      "end": 9.44,
+      "text": "Are you feeling curious today? Because the world out here is just bursting with tiny"
+    },
+    {
+      "start": 9.44,
+      "end": 14.8,
+      "text": "little wonders waiting for us. Have you ever just stopped to watch a beetle push a crumb?"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

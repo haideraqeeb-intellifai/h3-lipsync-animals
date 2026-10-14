@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, forest friends! It is Hazel here. Today, let us talk about turning a drafty corner into the Snuggest Reading Nook you can imagine. First, find your spot. I love the alcove behind the old oak roots. It keeps the wind out and feels like a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Hello there, forest friends! It is Hazel here. Today, let us talk about turning a"
+    },
+    {
+      "start": 5.2,
+      "end": 10.48,
+      "text": "drafty corner into the Snuggest Reading Nook you can imagine. First, find your spot."
+    },
+    {
+      "start": 10.48,
+      "end": 14.96,
+      "text": "I love the alcove behind the old oak roots. It keeps the wind out and feels like a"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

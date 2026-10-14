@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e1-ec1a-73c4-b91f-3282df5ed622.mp4",
+  "animal": "Beaver",
+  "presenter": "Benny Beaver",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/benny-beaver-01a136e1-9df1-7317-9d61-81b5280c93e8-headshot.jpg",
+  "id": "23-beaver",
+  "number": 23,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "cf3e226ff7b914d919c3480d2d802d0b76a571c0406326009f51a88c37b4625c",
+  "audio_sha256": "4ab46a9a385254a39d4043ef07ec64ba7565943bf0c034ad35ce6c6035d80adc"
+}

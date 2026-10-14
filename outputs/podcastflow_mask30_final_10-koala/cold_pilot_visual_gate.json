@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "method": "Three decoded grayscale frames. Reject contrast below 20 percent of the reference or a p99-p1 range below 24/255. A near-blank rejection check only, not semantic fidelity or lip-sync validation.",
+  "samples": [
+    {
+      "time_seconds": 1.5083333,
+      "contrast_ratio_to_reference": 1.0531525169807279,
+      "p99_minus_p1": 214.0,
+      "passed": true
+    },
+    {
+      "time_seconds": 7.5416665,
+      "contrast_ratio_to_reference": 1.1778243062799936,
+      "p99_minus_p1": 219.0,
+      "passed": true
+    },
+    {
+      "time_seconds": 13.5749997,
+      "contrast_ratio_to_reference": 1.0505619093592549,
+      "p99_minus_p1": 213.0,
+      "passed": true
+    }
+  ]
+}

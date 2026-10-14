@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136da-6ee1-7160-b99c-35336941d43a.mp4",
+  "animal": "Lion",
+  "presenter": "Leo Lion",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/leo-lion-01a136da-23e5-715f-bc7f-ddf3956a9842-headshot.jpg",
+  "id": "03-lion",
+  "number": 3,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "d4f561499df748e87206a5e05e56cd2b839ee57ce6c1525f167d17d20ac98c51",
+  "audio_sha256": "5fb9db566daa4dd039c00f787bf180dd2d78d7d47d7698eb033232dc73334277",
+  "animal_mask_box": [
+    0.16,
+    0.11,
+    0.86,
+    0.87
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "fae9c195a8e2f8ea493bda31a018c93911fe227941d067651d1e0c78e2b77533",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "d4f561499df748e87206a5e05e56cd2b839ee57ce6c1525f167d17d20ac98c51",
+    "audio.wav": "5fb9db566daa4dd039c00f787bf180dd2d78d7d47d7698eb033232dc73334277",
+    "prompt.txt": "b1a7dca719d649ee1dac93ced32ad4497f86e99133b08672a9345b68f8ee9252"
+  }
+}

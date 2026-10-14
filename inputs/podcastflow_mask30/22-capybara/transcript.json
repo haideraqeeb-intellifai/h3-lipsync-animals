@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, my dear forest friends, it is Cora here, your favourite capybara, coming to you from the warm, muddy banks of our local stream. You know, there is really nothing quite like a lazy afternoon gathering with the crew.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "Hello there, my dear forest friends, it is Cora here, your favourite capybara, coming"
+    },
+    {
+      "start": 5.76,
+      "end": 11.8,
+      "text": "to you from the warm, muddy banks of our local stream. You know, there is really nothing quite"
+    },
+    {
+      "start": 11.8,
+      "end": 14.88,
+      "text": "like a lazy afternoon gathering with the crew."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

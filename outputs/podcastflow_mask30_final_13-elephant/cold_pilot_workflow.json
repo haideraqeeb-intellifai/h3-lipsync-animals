@@ -1,0 +1,179 @@
+{
+  "diffusion": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "text": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "minimax",
+      "device": "default"
+    }
+  },
+  "video_vae": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+    }
+  },
+  "audio_vae": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+    }
+  },
+  "conditioning": {
+    "class_type": "LionAudioConditioning",
+    "inputs": {
+      "clip": [
+        "text",
+        0
+      ],
+      "vae": [
+        "video_vae",
+        0
+      ],
+      "audio_vae": [
+        "audio_vae",
+        0
+      ],
+      "prompt": "subject_definitions:\n<Subject 1> is the single elephant in <Picture 1>, the visible speaker (S1).\n<Picture 1> is the complete composition anchor for the full video. Its visible content is: The linked presenter image shows the single elephant speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n<Audio 1> is the supplied speech recording spoken by <Subject 1> (S1) and copied unchanged as the final soundtrack.\n\nsummary:\n[reference generation + audio reuse] One continuous 15-second static view of the original portrait, with the original animal speaking in place. The described reference composition persists throughout every sentence and pause.\n\nretention_analysis:\n<Subject 1> (throughout [Shot 1]): fully_preserved - the original face, body, markings, facial-feature arrangement, species-native anatomy, pose and orientation remain intact during small localized speech movements.\n<Picture 1> ([Shot 1] composition anchor throughout): fully_preserved - every described visible feature, object, surface, background element and spatial relationship retains its original appearance and placement. Camera viewpoint, crop, subject scale, perspective, focus and lighting stay constant.\n<Audio 1>: fully_copy - the supplied recording is the complete final soundtrack, retaining the original voice, words, delivery, pauses and timing.\n\ndetailed_description:\nThe photographic appearance is taken directly from <Picture 1>.\n[Shot 1] The camera holds one static shot of this exact composition: The linked presenter image shows the single elephant speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n\nThe single <Subject 1> remains in that original position and posture with its head at the pictured angle. Each described detail remains visible in its reference location from beginning to end. The original microphone and its support remain stationary. The surrounding surfaces and background maintain their existing appearance and geometry. Subject size and framing remain constant while the animal speaks.\n\nThe full shot remains registered to the same image: the top of the head, the outer body contour, the microphone and the background landmarks keep the same distances from all four frame edges at every moment. The middle of the recording retains exactly the opening scale and placement, including across pauses and sentence boundaries.\n\n<Subject 1> (S1) says on screen with the timing and delivery of the unchanged <Audio 1>: <d>[English] Hello there, dear friends! It is your pal Eli the Elephant here. Have you ever noticed how the smallest things bring the biggest smiles? I love the way the morning dew feels on my toes. It is cool, fresh, and reminds me that a brand new day is just...</d>\n\nThe existing visible mouth or beak gently opens, articulates the syllables and closes in time with the supplied speech, accompanied by a small localized jaw opening. Articulation remains clearly visible throughout each spoken phrase while the muzzle or beak retains its native proportions and the head stays at its original angle. Actual pauses bring a natural resting mouth; the next audible syllable restarts articulation. Only the native mouth articulates: preserve its anatomical location and any existing occlusion, without adding human lips or a new mouth on the trunk, neck or body. Speech is conveyed within this portrait while the setting stays as pictured.\n\nThe body, paws, wings, clothes and accessories stay in their pictured positions. Only the native mouth or beak makes small speech movements. The head and torso retain their original scale and position in every frame. The final frame keeps the opening composition.\n\noverall_soundscape:\nAll audible content comes from the copied recording <Audio 1>, including any original ambience.\n\nnon_diegetic_music:\nN/A",
+      "frames": 362,
+      "ref_image_size": "match"
+    }
+  },
+  "adapter": {
+    "class_type": "MiniMaxH3TurboLoRA",
+    "inputs": {
+      "model": [
+        "diffusion",
+        0
+      ],
+      "lora_name": "minimax_h3_turbo_v4_step600_ema.safetensors",
+      "strength": 1.0,
+      "low_vram": false
+    }
+  },
+  "attention": {
+    "class_type": "PilotSage",
+    "inputs": {
+      "model": [
+        "adapter",
+        0
+      ]
+    }
+  },
+  "noise": {
+    "class_type": "RandomNoise",
+    "inputs": {
+      "noise_seed": 42
+    }
+  },
+  "guider": {
+    "class_type": "BasicGuider",
+    "inputs": {
+      "model": [
+        "attention",
+        0
+      ],
+      "conditioning": [
+        "conditioning",
+        0
+      ]
+    }
+  },
+  "sampler": {
+    "class_type": "MiniMaxH3TurboSampler",
+    "inputs": {}
+  },
+  "schedule": {
+    "class_type": "BasicScheduler",
+    "inputs": {
+      "model": [
+        "attention",
+        0
+      ],
+      "scheduler": "simple",
+      "steps": 4,
+      "denoise": 1.0
+    }
+  },
+  "denoise": {
+    "class_type": "SamplerCustomAdvanced",
+    "inputs": {
+      "noise": [
+        "noise",
+        0
+      ],
+      "guider": [
+        "guider",
+        0
+      ],
+      "sampler": [
+        "sampler",
+        0
+      ],
+      "sigmas": [
+        "schedule",
+        0
+      ],
+      "latent_image": [
+        "conditioning",
+        1
+      ]
+    }
+  },
+  "audit": {
+    "class_type": "AuditAudioLatent",
+    "inputs": {
+      "samples": [
+        "denoise",
+        0
+      ]
+    }
+  },
+  "decode": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "audit",
+        0
+      ],
+      "vae": [
+        "video_vae",
+        0
+      ]
+    }
+  },
+  "video": {
+    "class_type": "CreateVideo",
+    "inputs": {
+      "images": [
+        "decode",
+        0
+      ],
+      "audio": [
+        "conditioning",
+        2
+      ],
+      "fps": 24.0,
+      "bit_depth": 8
+    }
+  },
+  "save": {
+    "class_type": "SaveVideo",
+    "inputs": {
+      "video": [
+        "video",
+        0
+      ],
+      "filename_prefix": "cold_pilot/lion",
+      "format": "mp4",
+      "codec": "auto"
+    }
+  }
+}

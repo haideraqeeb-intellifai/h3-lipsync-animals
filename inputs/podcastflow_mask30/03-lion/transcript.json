@@ -1,0 +1,27 @@
+{
+  "text": "Hello friends, Leo the Lion here. Today is just perfect for doing absolutely nothing. The sun feels like a warm fuzzy blanket draped right over my golden mane. I spent the morning watching a single beetle crawl across a leaf. It took an hour. That is the kind of speed I like. No rushing, no hunting, just pure quiet observation.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7600000000000002,
+      "text": "Hello friends, Leo the Lion here. Today is just perfect for doing absolutely nothing."
+    },
+    {
+      "start": 3.7600000000000002,
+      "end": 7.04,
+      "text": "The sun feels like a warm fuzzy blanket draped right over my golden mane."
+    },
+    {
+      "start": 7.04,
+      "end": 10.32,
+      "text": "I spent the morning watching a single beetle crawl across a leaf. It took an hour."
+    },
+    {
+      "start": 10.32,
+      "end": 14.24,
+      "text": "That is the kind of speed I like. No rushing, no hunting, just pure quiet observation."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

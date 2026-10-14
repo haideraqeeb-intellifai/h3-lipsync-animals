@@ -1,0 +1,27 @@
+{
+  "text": "Hi there, I am Benny the Beaver, and today we are talking about building things. It is quite fun to create something new from scratch, bit by bit. First, you need a plan. Do not worry about the f-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5600000000000005,
+      "text": "Hi there, I am Benny the Beaver, and today we are talking about building things."
+    },
+    {
+      "start": 6.5600000000000005,
+      "end": 11.36,
+      "text": "It is quite fun to create something new from scratch, bit by bit."
+    },
+    {
+      "start": 11.36,
+      "end": 13.68,
+      "text": "First, you need a plan."
+    },
+    {
+      "start": 13.68,
+      "end": 14.92,
+      "text": "Do not worry about the f-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

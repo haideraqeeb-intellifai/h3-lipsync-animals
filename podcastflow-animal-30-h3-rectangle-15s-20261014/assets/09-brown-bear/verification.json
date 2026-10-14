@@ -1,0 +1,237 @@
+{
+  "case_id": "09-brown-bear",
+  "source_report": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_video": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dc-6309-7233-826c-9d828f41e0e5.mp4",
+  "linked_reference": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/bruno-brown-bear-01a136dc-2487-72c9-8ad8-f9bfde2ea0c7-headshot.jpg",
+  "source_headshot_sha256": "29eaae976d2640f577bfef75879e9792ec1416f0d34c0e146dee673fb32a4e8d",
+  "audio_sha256": "12b35823fd037035eadee4e3986155fa2882cc67a8bcf8c51140ad869ff41a01",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "29eaae976d2640f577bfef75879e9792ec1416f0d34c0e146dee673fb32a4e8d",
+    "audio.wav": "12b35823fd037035eadee4e3986155fa2882cc67a8bcf8c51140ad869ff41a01",
+    "prompt.txt": "c11a6f1666758e91fd718a4901765c5d27ad12cda5e98ae687c6988925faeabe"
+  },
+  "mask_box": [
+    0.16,
+    0.14,
+    0.87,
+    0.83
+  ],
+  "native_frames": 362,
+  "export_frames": 360,
+  "export": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 640,
+        "height": 1120,
+        "r_frame_rate": "24/1",
+        "nb_frames": "360"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "704"
+      }
+    ],
+    "format": {
+      "duration": "15.000000"
+    }
+  },
+  "audio_latent_max_error": 0.0,
+  "outside_mask_latent_max_error": 0.0,
+  "framing_audit": {
+    "case_id": "09-brown-bear",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.991951762347021,
+      1.0068624487684494
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 233,
+        "inliers": 200,
+        "subject_scale": 0.9961809506672271,
+        "translation_px": [
+          1.8505065814081585,
+          2.2192918510366564
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 205,
+        "inliers": 142,
+        "subject_scale": 1.0009013949438152,
+        "translation_px": [
+          0.8558461170358075,
+          -2.819012951706716
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 221,
+        "inliers": 128,
+        "subject_scale": 0.9986583738801474,
+        "translation_px": [
+          0.9293549089010149,
+          -0.75015353641674
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 176,
+        "inliers": 57,
+        "subject_scale": 0.9930522253246765,
+        "translation_px": [
+          2.9530935994475507,
+          3.730591689048289
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 193,
+        "inliers": 105,
+        "subject_scale": 1.001462108407322,
+        "translation_px": [
+          3.9987223416996356,
+          -4.143857291719997
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 206,
+        "inliers": 77,
+        "subject_scale": 1.0002142327247003,
+        "translation_px": [
+          2.418105747992736,
+          -2.554677815814405
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 181,
+        "inliers": 66,
+        "subject_scale": 1.0034015732126353,
+        "translation_px": [
+          -0.2893658699800045,
+          -4.676003225885426
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 218,
+        "inliers": 151,
+        "subject_scale": 0.991951762347021,
+        "translation_px": [
+          7.172940727971287,
+          3.774360817300296
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 217,
+        "inliers": 129,
+        "subject_scale": 0.9998173890370167,
+        "translation_px": [
+          1.1484934975551322,
+          -2.567074930643379
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 194,
+        "inliers": 119,
+        "subject_scale": 1.0068624487684494,
+        "translation_px": [
+          -5.691019343114261,
+          -5.895068405613928
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 175,
+        "inliers": 67,
+        "subject_scale": 1.0042407582406032,
+        "translation_px": [
+          -3.3075481792759804,
+          -4.996558982354262
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 203,
+        "inliers": 136,
+        "subject_scale": 0.9979777342846792,
+        "translation_px": [
+          2.4602279102440714,
+          0.11503994152731883
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 206,
+        "inliers": 67,
+        "subject_scale": 0.9965324660808635,
+        "translation_px": [
+          6.159190099051476,
+          -0.022861994823631604
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 180,
+        "inliers": 86,
+        "subject_scale": 1.0062478667293409,
+        "translation_px": [
+          2.0966017454886625,
+          -8.438426376533723
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 201,
+        "inliers": 128,
+        "subject_scale": 1.0017177875990664,
+        "translation_px": [
+          3.7742451416282132,
+          -4.956533304504666
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 211,
+        "inliers": 148,
+        "subject_scale": 0.9948195911723016,
+        "translation_px": [
+          8.854556687061939,
+          0.7772860643636358
+        ]
+      }
+    ],
+    "mask_box": [
+      0.16,
+      0.14,
+      0.87,
+      0.83
+    ]
+  },
+  "method": "First 360 H3 native frames at 24 fps, with the first 15 seconds of source-video audio muxed as the soundtrack; no spatial crop or zoom applied in export."
+}

@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1> is the single brown bear in <Picture 1>, the visible speaker (S1).
+<Picture 1> is the complete composition anchor for the full video. Its visible content is: The linked presenter image shows the single brown bear speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.
+<Audio 1> is the supplied speech recording spoken by <Subject 1> (S1) and copied unchanged as the final soundtrack.
+
+summary:
+[reference generation + audio reuse] One continuous 15-second static view of the original portrait, with the original animal speaking in place. The described reference composition persists throughout every sentence and pause.
+
+retention_analysis:
+<Subject 1> (throughout [Shot 1]): fully_preserved - the original face, body, markings, facial-feature arrangement, species-native anatomy, pose and orientation remain intact during small localized speech movements.
+<Picture 1> ([Shot 1] composition anchor throughout): fully_preserved - every described visible feature, object, surface, background element and spatial relationship retains its original appearance and placement. Camera viewpoint, crop, subject scale, perspective, focus and lighting stay constant.
+<Audio 1>: fully_copy - the supplied recording is the complete final soundtrack, retaining the original voice, words, delivery, pauses and timing.
+
+detailed_description:
+The photographic appearance is taken directly from <Picture 1>.
+[Shot 1] The camera holds one static shot of this exact composition: The linked presenter image shows the single brown bear speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.
+
+The single <Subject 1> remains in that original position and posture with its head at the pictured angle. Each described detail remains visible in its reference location from beginning to end. The original microphone and its support remain stationary. The surrounding surfaces and background maintain their existing appearance and geometry. Subject size and framing remain constant while the animal speaks.
+
+The full shot remains registered to the same image: the top of the head, the outer body contour, the microphone and the background landmarks keep the same distances from all four frame edges at every moment. The middle of the recording retains exactly the opening scale and placement, including across pauses and sentence boundaries.
+
+<Subject 1> (S1) says on screen with the timing and delivery of the unchanged <Audio 1>: <d>[English] Hello there forest friends. It is your pal Bruno the brown bear here. Pull up a mossy log and get cosy. Because today we are talking about the magic hidden inside a really great story. You know that feeling when the sun hits just right on your fur.</d>
+
+The existing visible mouth or beak gently opens, articulates the syllables and closes in time with the supplied speech, accompanied by a small localized jaw opening. Articulation remains clearly visible throughout each spoken phrase while the muzzle or beak retains its native proportions and the head stays at its original angle. Actual pauses bring a natural resting mouth; the next audible syllable restarts articulation. Only the native mouth articulates: preserve its anatomical location and any existing occlusion, without adding human lips or a new mouth on the trunk, neck or body. Speech is conveyed within this portrait while the setting stays as pictured.
+
+The body, paws, wings, clothes and accessories stay in their pictured positions. Only the native mouth or beak makes small speech movements. The head and torso retain their original scale and position in every frame. The final frame keeps the opening composition.
+
+overall_soundscape:
+All audible content comes from the copied recording <Audio 1>, including any original ambience.
+
+non_diegetic_music:
+N/A

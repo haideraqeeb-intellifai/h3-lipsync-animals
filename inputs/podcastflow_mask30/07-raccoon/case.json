@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136db-c151-7170-895a-9a27c2991633.mp4",
+  "animal": "Raccoon",
+  "presenter": "Remy Raccoon",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/remy-raccoon-01a136db-76dd-7377-9fd3-19152197028f-headshot.jpg",
+  "id": "07-raccoon",
+  "number": 7,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "f7ab0c17b56731cd1d557a58e52b29acddb1600a5b137539973e15af893c2908",
+  "audio_sha256": "a20e265a04265b46810f6618ae1168de4b0c6c86a8348c331932d505669be8d3",
+  "animal_mask_box": [
+    0.25,
+    0.1,
+    0.81,
+    0.85
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "9b5bb7d57151aa63f986704e7f18aaca361f6b2a98797198cd155c964d98cd99",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "f7ab0c17b56731cd1d557a58e52b29acddb1600a5b137539973e15af893c2908",
+    "audio.wav": "a20e265a04265b46810f6618ae1168de4b0c6c86a8348c331932d505669be8d3",
+    "prompt.txt": "b79942f1afe7d41ff8ca75499662da5bd7bc289c21759dec887fd09efeed70e2"
+  }
+}

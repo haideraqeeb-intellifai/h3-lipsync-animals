@@ -1,0 +1,27 @@
+{
+  "text": "Morning! It is Felix here. I just finished a brisk walk through the woods, and honestly, the forest feels like a brand new book today. Did you catch the rustling leaves near the path? Those dry oak leaves dance in such a funny, jittery way.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "Morning! It is Felix here. I just finished a brisk walk through the woods, and honestly,"
+    },
+    {
+      "start": 5.92,
+      "end": 8.76,
+      "text": "the forest feels like a brand new book today."
+    },
+    {
+      "start": 8.76,
+      "end": 13.4,
+      "text": "Did you catch the rustling leaves near the path? Those dry oak leaves dance in such a"
+    },
+    {
+      "start": 13.4,
+      "end": 14.96,
+      "text": "funny, jittery way."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

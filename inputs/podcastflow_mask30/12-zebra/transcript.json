@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, darlings! It is Zelda the Zebra here! I have been thinking about patterns lately, and specifically about the beautiful, wild pattern of you. We often worry about fitting in, but I say let your stripes stand out. creating your",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Hello there, darlings! It is Zelda the Zebra here! I have been thinking about patterns lately, and specifically about the beautiful, wild pattern of you."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "We often worry about fitting in, but I say let your stripes stand out."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "creating your"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

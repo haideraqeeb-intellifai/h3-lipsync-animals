@@ -1,0 +1,1622 @@
+[
+  {
+    "timestamp": 1791929436.8890536,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 0,
+    "memory_used_bytes": 531890176,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929437.889497,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 3,
+    "memory_used_bytes": 1421082624,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929438.8898525,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 35,
+    "memory_used_bytes": 3174301696,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929439.890246,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 48,
+    "memory_used_bytes": 5630066688,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929440.8909009,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 50,
+    "memory_used_bytes": 8253603840,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929441.8924897,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 50,
+    "memory_used_bytes": 10810032128,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929442.893189,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 43,
+    "memory_used_bytes": 13232242688,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929443.893685,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 10885529600,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929444.894136,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 10885529600,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929445.8944185,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 10885529600,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929446.8947635,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 13,
+    "memory_used_bytes": 2226388992,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929447.8953562,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 13341294592,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929448.896213,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 13945274368,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929449.8967025,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 14484242432,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929450.897201,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 14956101632,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929451.8977425,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15344074752,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929452.8983595,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15813836800,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929453.8992507,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 16285696000,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929454.9001117,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 16891772928,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929455.900887,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 17397186560,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929456.901537,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 17869045760,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929457.9022315,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 18338807808,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929458.9029112,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 84,
+    "memory_used_bytes": 18810667008,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929459.904034,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 94,
+    "memory_used_bytes": 19282526208,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929460.904928,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 19651624960,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929461.905822,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 20123484160,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929462.906543,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 20595343360,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929463.9072652,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 21033648128,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929464.9081006,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 21740388352,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929465.9091384,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 22145138688,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929466.909922,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 22614900736,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929467.9106317,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 23053205504,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929468.9113157,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 23558619136,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929469.9120374,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 23994826752,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929470.9127393,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 72,
+    "memory_used_bytes": 24097587200,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929471.9134007,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929472.9142916,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929473.9153953,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929474.9164937,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929475.9171731,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929476.9200623,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929477.921705,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929478.9224863,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929479.9240103,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 97,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929480.925711,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 98,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929481.9266443,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929482.9273462,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929483.9279044,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929484.9284928,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929485.929191,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929486.9297638,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929487.9303627,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929488.9309583,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929489.9315734,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929490.9322739,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929491.9329019,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929492.9335835,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929493.9341896,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24204541952,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929494.9349308,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929495.9354968,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929496.9361193,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929497.9368467,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929498.937333,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929499.9379876,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929500.938618,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929501.939286,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929502.9398475,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929503.940352,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929504.940947,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929505.9414513,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929506.9419687,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929507.9424694,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929508.942998,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929509.9436727,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929510.9441695,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929511.944784,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929512.9454057,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929513.9459848,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929514.9466536,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929515.9472203,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929516.9478004,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929517.9483016,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929518.9489346,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929519.949448,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929520.9499655,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929521.9506195,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929522.9513533,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929523.951966,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929524.952497,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929525.9531171,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929526.9536078,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929527.9541554,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929528.9547107,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929529.955182,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929530.9556322,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929531.9561925,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929532.956794,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 99,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929533.957306,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929534.9578931,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929535.9584184,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929536.959039,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929537.9595604,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929538.9601,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929539.960654,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929540.9611752,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929541.9617522,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 24225513472,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929542.9623628,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 92,
+    "memory_used_bytes": 9644015616,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929543.9629633,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 12,
+    "memory_used_bytes": 12603097088,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929544.9636898,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 13523746816,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929545.9642751,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15222439936,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929546.964769,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929547.965263,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929548.9661264,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929549.9665105,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929550.967,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929551.9673665,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929552.9677665,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929553.9681132,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929554.9684563,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929555.968794,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929556.9691975,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929557.96954,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929558.9698896,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929559.9702554,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929560.9705954,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929561.971096,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929562.971468,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929563.9719853,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929564.9725177,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929565.97297,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 100,
+    "memory_used_bytes": 15243411456,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929566.9736814,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 14,
+    "memory_used_bytes": 18074566656,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929567.9774091,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 0,
+    "memory_used_bytes": 13251117056,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929568.98256,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 0,
+    "memory_used_bytes": 13251117056,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929569.9871972,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 0,
+    "memory_used_bytes": 13251117056,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  },
+  {
+    "timestamp": 1791929570.9879405,
+    "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+    "utilization_percent": 0,
+    "memory_used_bytes": 13251117056,
+    "driver_reserved_bytes": 520159232,
+    "compute_pids": [
+      2273300
+    ],
+    "graphics_pids": [],
+    "unexpected_pids": []
+  }
+]

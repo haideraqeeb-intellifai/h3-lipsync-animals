@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e2-f454-73af-b585-5b59398c4dec.mp4",
+  "animal": "Badger",
+  "presenter": "Basil Badger",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/basil-badger-01a136e2-93c6-7152-b222-9ac3a82572ca-headshot.jpg",
+  "id": "25-badger",
+  "number": 25,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "36d72d90cec9298bb37985ba86093599b7dd4ff718b9102e6e57d56a7ecbb226",
+  "audio_sha256": "d587a92fbcc3c38935fe8e88eac51f96705a7c5020598b4b5d2c58f882572689"
+}

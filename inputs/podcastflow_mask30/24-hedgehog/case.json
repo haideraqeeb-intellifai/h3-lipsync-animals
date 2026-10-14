@@ -1,0 +1,38 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e2-7533-70d4-8b95-1476b493bfc5.mp4",
+  "animal": "Hedgehog",
+  "presenter": "Hazel Hedgehog",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/hazel-hedgehog-01a136e2-09fe-73ec-ba6f-8e259ad75006-headshot.jpg",
+  "id": "24-hedgehog",
+  "number": 24,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "7eec51df50f37cff3fd506952b955699edcdcde54f30189ae5323c4b2faf33ec",
+  "audio_sha256": "2269614c06b8e8e8ec809adbc591f1a56780db1a8f81109f709686aebb5927b1",
+  "animal_mask_box": [
+    0.3,
+    0.06,
+    0.78,
+    0.91
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "076c4530247fe61482bff01ad0182cceb51f048445b81f52e1b48765dd058bf5",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "7eec51df50f37cff3fd506952b955699edcdcde54f30189ae5323c4b2faf33ec",
+    "audio.wav": "2269614c06b8e8e8ec809adbc591f1a56780db1a8f81109f709686aebb5927b1",
+    "prompt.txt": "5ece83338baab618ea248ec730cff0edd62247bd9cc06368556d8b361ae30fc5"
+  }
+}

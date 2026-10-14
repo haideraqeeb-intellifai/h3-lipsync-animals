@@ -1,0 +1,27 @@
+{
+  "text": "Hello there forest friends, it is Sylvie here. Is your tale twitchy with excitement? The weekend is almost upon us and I have the perfect cozy plan for staying warm and happy in the trees. First we must gather the best treasures. I am thinking of those crunchy acorns hidden near the oak root. A squirrel needs a good snack stash-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello there forest friends, it is Sylvie here. Is your tale twitchy with excitement?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.72,
+      "text": "The weekend is almost upon us and I have the perfect cozy plan for staying warm and happy in the trees."
+    },
+    {
+      "start": 8.72,
+      "end": 12.64,
+      "text": "First we must gather the best treasures. I am thinking of those crunchy acorns hidden"
+    },
+    {
+      "start": 12.64,
+      "end": 14.88,
+      "text": "near the oak root. A squirrel needs a good snack stash-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

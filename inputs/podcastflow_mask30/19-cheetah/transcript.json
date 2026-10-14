@@ -1,0 +1,27 @@
+{
+  "text": "Hey there friends, it is your pal Chester here. You know life moves fast, like really fast. Most days I am just a blur of orange and spots zooming past your windows. I used to think that being the fastest cat in the savannah was the only way to live, but lately I-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Hey there friends, it is your pal Chester here. You know life moves fast, like really fast."
+    },
+    {
+      "start": 4.96,
+      "end": 9.36,
+      "text": "Most days I am just a blur of orange and spots zooming past your windows."
+    },
+    {
+      "start": 9.36,
+      "end": 13.92,
+      "text": "I used to think that being the fastest cat in the savannah was the only way to live,"
+    },
+    {
+      "start": 13.92,
+      "end": 14.88,
+      "text": "but lately I-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

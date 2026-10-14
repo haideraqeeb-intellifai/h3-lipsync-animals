@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e1-0d74-7061-8e40-2796d5c06eac.mp4",
+  "animal": "Sloth",
+  "presenter": "Sid Sloth",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/sid-sloth-01a136e0-bc88-73a9-b277-bbfc52a2d05c-headshot.jpg",
+  "id": "21-sloth",
+  "number": 21,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "ba4bfbdfd5eb8ffc0d2137399969d1c0d2e9a24d1344c8caf1f15e48c5a23638",
+  "audio_sha256": "3209a8eeb4bea35d94e04fc946a5b326c9ae183c4f1b0ad9ed96b2d42e9d9ac3"
+}

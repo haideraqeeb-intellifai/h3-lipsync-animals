@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dc-13dc-73b9-bd28-1e1a6a7ab0c5.mp4",
+  "animal": "Red Squirrel",
+  "presenter": "Sylvie Red Squirrel",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/sylvie-red-squirrel-01a136db-d0b2-7054-81e4-34e0317a953e-headshot.jpg",
+  "id": "08-red-squirrel",
+  "number": 8,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "8b8af5360033cc960b59405a9367cdcdc0b95dec21a8c5a10256a1bed0b02b38",
+  "audio_sha256": "95ac7c487881b0643130c622d7c76c7e21439521d768baffdea23b49deb26be7",
+  "animal_mask_box": [
+    0.25,
+    0.14,
+    0.79,
+    0.88
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "8c5aef52a8afe2786b3044d6d0cd0c30dad4ca3541af07c554f6376017da5087",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "8b8af5360033cc960b59405a9367cdcdc0b95dec21a8c5a10256a1bed0b02b38",
+    "audio.wav": "95ac7c487881b0643130c622d7c76c7e21439521d768baffdea23b49deb26be7",
+    "prompt.txt": "c04e73571ce0ca6ba4bb826dac02d366dc3e37695f637bc5eb7df8fe2090cc4b"
+  }
+}

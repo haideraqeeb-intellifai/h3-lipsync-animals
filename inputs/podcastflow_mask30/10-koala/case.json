@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dc-b92a-7336-b57c-7f702e6f2ef9.mp4",
+  "animal": "Koala",
+  "presenter": "Kiki Koala",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/kiki-koala-01a136dc-7414-70bc-93ca-6c90750ac57e-headshot.jpg",
+  "id": "10-koala",
+  "number": 10,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "ee1d3fa9133918978c8fa5ece337bf9f2f1a748976c9a80183357b2d1a759716",
+  "audio_sha256": "e69e3eb11502d0b5c190cf0d80463b2165ba695dbed9f1d010e5cf40a684ca91",
+  "animal_mask_box": [
+    0.2,
+    0.11,
+    0.85,
+    0.85
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "6ed32e4a326eb6d43838dca178df14a9140ce4d2119f5f55151bd20bbd4589ec",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "ee1d3fa9133918978c8fa5ece337bf9f2f1a748976c9a80183357b2d1a759716",
+    "audio.wav": "e69e3eb11502d0b5c190cf0d80463b2165ba695dbed9f1d010e5cf40a684ca91",
+    "prompt.txt": "eaae033f4ea99e3967e3e80f5a13fcadcd7fadc661923b4d3191c12e6ecfc2df"
+  }
+}

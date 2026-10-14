@@ -1,0 +1,193 @@
+{
+  "case_id": "04-tiger",
+  "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+  "verdict": "pass",
+  "scale_range": [
+    1.0035973190547869,
+    1.0222305629681292
+  ],
+  "samples": [
+    {
+      "frame": 0,
+      "second": 0.0,
+      "matches": 530,
+      "inliers": 485,
+      "subject_scale": 1.0035973190547869,
+      "translation_px": [
+        -0.727340041338106,
+        -2.498468980695535
+      ]
+    },
+    {
+      "frame": 24,
+      "second": 1.0,
+      "matches": 472,
+      "inliers": 236,
+      "subject_scale": 1.018178090952638,
+      "translation_px": [
+        -5.501864805646401,
+        -14.469276805598128
+      ]
+    },
+    {
+      "frame": 48,
+      "second": 2.0,
+      "matches": 464,
+      "inliers": 328,
+      "subject_scale": 1.0086188583538616,
+      "translation_px": [
+        -0.8520912566428228,
+        -6.657136673540816
+      ]
+    },
+    {
+      "frame": 72,
+      "second": 3.0,
+      "matches": 379,
+      "inliers": 206,
+      "subject_scale": 1.0082992289764448,
+      "translation_px": [
+        -0.0041489286678342285,
+        -7.1895097883979036
+      ]
+    },
+    {
+      "frame": 96,
+      "second": 4.0,
+      "matches": 334,
+      "inliers": 135,
+      "subject_scale": 1.015154559469713,
+      "translation_px": [
+        -5.048871826759972,
+        -11.190628761257237
+      ]
+    },
+    {
+      "frame": 120,
+      "second": 5.0,
+      "matches": 418,
+      "inliers": 241,
+      "subject_scale": 1.0126056570747837,
+      "translation_px": [
+        -2.3981553117942394,
+        -9.966426563034588
+      ]
+    },
+    {
+      "frame": 144,
+      "second": 6.0,
+      "matches": 436,
+      "inliers": 212,
+      "subject_scale": 1.0085881385693274,
+      "translation_px": [
+        -4.816117635469034,
+        -5.685310350100265
+      ]
+    },
+    {
+      "frame": 168,
+      "second": 7.0,
+      "matches": 425,
+      "inliers": 163,
+      "subject_scale": 1.0085729219477237,
+      "translation_px": [
+        -2.890273502334393,
+        -5.533740057344991
+      ]
+    },
+    {
+      "frame": 192,
+      "second": 8.0,
+      "matches": 437,
+      "inliers": 275,
+      "subject_scale": 1.0056235410533654,
+      "translation_px": [
+        0.5930865205005673,
+        -4.088794195834735
+      ]
+    },
+    {
+      "frame": 216,
+      "second": 9.0,
+      "matches": 414,
+      "inliers": 185,
+      "subject_scale": 1.0088773888841553,
+      "translation_px": [
+        -2.132981660071197,
+        -5.691965464863112
+      ]
+    },
+    {
+      "frame": 240,
+      "second": 10.0,
+      "matches": 407,
+      "inliers": 162,
+      "subject_scale": 1.0222305629681292,
+      "translation_px": [
+        -6.367251368357229,
+        -16.793366031863386
+      ]
+    },
+    {
+      "frame": 264,
+      "second": 11.0,
+      "matches": 450,
+      "inliers": 258,
+      "subject_scale": 1.0131278112002542,
+      "translation_px": [
+        -2.908978306819067,
+        -10.194461138883213
+      ]
+    },
+    {
+      "frame": 288,
+      "second": 12.0,
+      "matches": 441,
+      "inliers": 163,
+      "subject_scale": 1.0194121576027184,
+      "translation_px": [
+        -5.29443057288617,
+        -14.214576279425547
+      ]
+    },
+    {
+      "frame": 312,
+      "second": 13.0,
+      "matches": 377,
+      "inliers": 151,
+      "subject_scale": 1.010378736936274,
+      "translation_px": [
+        -0.1922097623142115,
+        -8.832039347114062
+      ]
+    },
+    {
+      "frame": 336,
+      "second": 14.0,
+      "matches": 367,
+      "inliers": 156,
+      "subject_scale": 1.004813234834374,
+      "translation_px": [
+        -1.2251596765059427,
+        -3.1180184816932766
+      ]
+    },
+    {
+      "frame": 359,
+      "second": 14.958333333333334,
+      "matches": 362,
+      "inliers": 151,
+      "subject_scale": 1.0041543478950823,
+      "translation_px": [
+        4.113335331940205,
+        -4.340720187611253
+      ]
+    }
+  ],
+  "mask_box": [
+    0.12,
+    0.1,
+    0.9,
+    0.86
+  ]
+}

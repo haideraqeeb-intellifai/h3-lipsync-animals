@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dc-6309-7233-826c-9d828f41e0e5.mp4",
+  "animal": "Brown Bear",
+  "presenter": "Bruno Brown Bear",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/bruno-brown-bear-01a136dc-2487-72c9-8ad8-f9bfde2ea0c7-headshot.jpg",
+  "id": "09-brown-bear",
+  "number": 9,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "29eaae976d2640f577bfef75879e9792ec1416f0d34c0e146dee673fb32a4e8d",
+  "audio_sha256": "12b35823fd037035eadee4e3986155fa2882cc67a8bcf8c51140ad869ff41a01",
+  "animal_mask_box": [
+    0.16,
+    0.14,
+    0.87,
+    0.83
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "44c2361f6a7f77cb3a6b61105663410d88e79fbf9f7cbf2ffe6ce5b504068966",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "29eaae976d2640f577bfef75879e9792ec1416f0d34c0e146dee673fb32a4e8d",
+    "audio.wav": "12b35823fd037035eadee4e3986155fa2882cc67a8bcf8c51140ad869ff41a01",
+    "prompt.txt": "c11a6f1666758e91fd718a4901765c5d27ad12cda5e98ae687c6988925faeabe"
+  }
+}

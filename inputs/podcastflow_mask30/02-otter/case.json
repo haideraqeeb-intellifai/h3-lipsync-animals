@@ -1,0 +1,38 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136c6-0465-7041-a549-3fc8bf74266c.mp4",
+  "animal": "Otter",
+  "presenter": "Mila Otter",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/mila-otter-01a136c5-b821-7325-8952-304ab0992016-headshot.jpg",
+  "id": "02-otter",
+  "number": 2,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "9f4fcb0edea58bf3c1cc4528dfa44651ce3b6666dc66c0533627a1cdd43ebb94",
+  "audio_sha256": "fb3ad11cd25898e0b1cdf2cc7289c0d0b6507f3b64fdbebc498c8fdb5d97f1c5",
+  "animal_mask_box": [
+    0.3,
+    0.12,
+    0.7,
+    0.91
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "a748ac7505dae381eaf927ec477d05b866689c3d7a30e9eda7ca4f4a7e54dc81",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "9f4fcb0edea58bf3c1cc4528dfa44651ce3b6666dc66c0533627a1cdd43ebb94",
+    "audio.wav": "fb3ad11cd25898e0b1cdf2cc7289c0d0b6507f3b64fdbebc498c8fdb5d97f1c5",
+    "prompt.txt": "f712ecf42fa94c0f78596329777445e1f0049d3ca4df0cb17eb2cafc8bad318c"
+  }
+}

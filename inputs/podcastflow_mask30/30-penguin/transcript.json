@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, dear friends. It is your favorite flightless bird, Pippa, waddling onto the mic. Are you ready to talk about the magic hidden in our tiny daily routines? We often wait for big fla-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.640000000000001,
+      "text": "Hello there, dear friends. It is your favorite flightless bird, Pippa, waddling onto the mic."
+    },
+    {
+      "start": 7.28,
+      "end": 13.040000000000001,
+      "text": "Are you ready to talk about the magic hidden in our tiny daily routines?"
+    },
+    {
+      "start": 13.040000000000001,
+      "end": 14.88,
+      "text": "We often wait for big fla-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

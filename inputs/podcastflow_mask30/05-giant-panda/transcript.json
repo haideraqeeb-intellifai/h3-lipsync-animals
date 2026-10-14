@@ -1,0 +1,22 @@
+{
+  "text": "Hello there forest friends! It is your favorite fuzzy panda bow checking in today. I am currently resting against my favorite oak tree, munching on some really crisp bamboo shoots. It is such a beautiful afternoon. The sunlight is filtering",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "Hello there forest friends! It is your favorite fuzzy panda bow checking in today."
+    },
+    {
+      "start": 5.28,
+      "end": 11.200000000000001,
+      "text": "I am currently resting against my favorite oak tree, munching on some really crisp bamboo shoots."
+    },
+    {
+      "start": 11.200000000000001,
+      "end": 14.96,
+      "text": "It is such a beautiful afternoon. The sunlight is filtering"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

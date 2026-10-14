@@ -1,0 +1,150 @@
+{
+  "status": "complete",
+  "frames": 362,
+  "fps": 24,
+  "width": 640,
+  "height": 1120,
+  "steps": 4,
+  "seed": 42,
+  "ref_image_size": "match",
+  "runs": [
+    {
+      "phase": "cold_pilot",
+      "generation_seconds": 134.1288481708616,
+      "components_seconds": {
+        "node/VAELoader": 0.11815786175429821,
+        "node/CLIPLoader": 0.488742190413177,
+        "text_encoder": 5.05706553440541,
+        "node/LionAudioConditioning": 8.599061018787324,
+        "node/UNETLoader": 0.033951946534216404,
+        "node/MiniMaxH3TurboLoRA": 0.024150095880031586,
+        "node/PilotSage": 0.00010353513062000275,
+        "node/BasicScheduler": 0.00013595633208751678,
+        "node/MiniMaxH3TurboSampler": 9.12696123123169e-06,
+        "node/BasicGuider": 2.6248395442962646e-05,
+        "node/RandomNoise": 6.712041795253754e-06,
+        "denoising_loop": 95.46194254979491,
+        "node/SamplerCustomAdvanced": 96.16564177628607,
+        "node/AuditAudioLatent": 0.009073169901967049,
+        "node/VAEDecode": 24.7009643567726,
+        "node/CreateVideo": 4.1678547859191895e-05,
+        "node/SaveVideo": 3.4849189314991236
+      },
+      "counts": {
+        "fixed_audio_forwards": 4,
+        "sage_dispatches": 200,
+        "sage_cuda_completed": 200
+      },
+      "audio_audit": {
+        "animal_mask_latent_box": [
+          6,
+          10,
+          36,
+          62
+        ],
+        "gesture_mask_ellipses": [],
+        "video_mask_fraction": 0.5571428537368774,
+        "audio_latent_shape": [
+          1,
+          32,
+          2,
+          603
+        ],
+        "source_audio_samples": 720000,
+        "source_sample_rate": 48000,
+        "model_sample_rate": 32000,
+        "audio_mask": 0,
+        "video_mask": "animal_rectangle",
+        "forward_audio_checks": [
+          {
+            "timestep": 1000.0,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 972.9729614257812,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 923.076904296875,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 800.0,
+            "max_error_after_compute_cast": 0.0
+          }
+        ],
+        "output_audio_latent_max_error": 0.0,
+        "output_video_latent_outside_mask_max_error": 0.0
+      },
+      "video": "/home/raqeeb/code/h3-optimization/flash-vs-h3/outputs/podcastflow_mask30_final_14-rhinoceros/runtime/output/cold_pilot/lion_00001_.mp4",
+      "peak_device_mib": 23103.25,
+      "peak_allocated_gib": 10.384161949157715,
+      "visual_gate": {
+        "status": "passed",
+        "method": "Three decoded grayscale frames. Reject contrast below 20 percent of the reference or a p99-p1 range below 24/255. A near-blank rejection check only, not semantic fidelity or lip-sync validation.",
+        "samples": [
+          {
+            "time_seconds": 1.5083333,
+            "contrast_ratio_to_reference": 1.0363762151733673,
+            "p99_minus_p1": 194.0,
+            "passed": true
+          },
+          {
+            "time_seconds": 7.5416665,
+            "contrast_ratio_to_reference": 1.0518604571186296,
+            "p99_minus_p1": 201.0,
+            "passed": true
+          },
+          {
+            "time_seconds": 13.5749997,
+            "contrast_ratio_to_reference": 1.0356279831250528,
+            "p99_minus_p1": 195.0,
+            "passed": true
+          }
+        ]
+      }
+    }
+  ],
+  "input_audio_seconds": 15.0,
+  "static_plate_mode": "repeated_chunk",
+  "mouth_mask_box": null,
+  "animal_mask_box": [
+    0.17,
+    0.15,
+    0.88,
+    0.87
+  ],
+  "animal_mask_image": null,
+  "gesture_mask_ellipses": [],
+  "case_id": "14-rhinoceros",
+  "conditioning": "reference image + reference audio + fixed audio latent + static portrait latent with one animal rectangle",
+  "patch": "ComfyUI H3 per-token video mask + fixed audio; original pinned legacy AV schedule retained",
+  "memory_adaptation": "LoRA residual blocks 4096 rows; token-independent MLP blocks 8192 rows; expandable CUDA allocator; 20 GiB reserved for workspace; weights and strength unchanged",
+  "timing_boundary": "workflow execution through native video and supplied audio saved; CUDA synchronized; nested timers overlap",
+  "comfy_revision": "e377e263049f9338b4d12a3dd417b36ae62948ff",
+  "source_files_sha256": {
+    "run_pilot.py": "27965a1070b8b50efbc7265ac53710c16eae498453f3f2307e4e0c58e4832296",
+    "visual_gate.py": "27ae2e86626e58610fa36089c250014ecd2b399193ee8e91db3d92eb2e454954",
+    "ComfyUI/comfy/model_base.py": "ee30ac579fa98a5f4e61725a52fc93fa2318d661a157ee2950a6e3afca70019a",
+    "ComfyUI/comfy/ldm/minimax/model.py": "ebdd1b5190ebcb24916e530cf637c17c72090898956adb3eff4bcafb081f57cf",
+    "turbo/__init__.py": "7631e6c1d6bd71eeb9e4d6aa2495ab96df1d31d008b1aa3eed41cc6438939943"
+  },
+  "inputs_sha256": {
+    "reference.jpg": "7422e9494061d391928e66160ece46ad02fcfbfa58fa980502095fc239c0d239",
+    "audio.wav": "cfa79903fda00513aade260898583ed15c29e3f1dfd66c725df9c906e2bf598c",
+    "prompt.txt": "edf4de0e4d5abe838f633a421afd0542c83493fbdef095bdce70826437040f7a"
+  },
+  "hardware": "name, uuid, driver_version, memory.total [MiB]\nNVIDIA GeForce RTX 5090, GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8, 595.84, 32607 MiB\n",
+  "packages": {
+    "torch": "2.11.0+cu130",
+    "sageattention": "2.2.0",
+    "torchaudio": "2.11.0+cu130"
+  },
+  "verified_cli_settings": {
+    "reserve_vram_gib": 20.0,
+    "enable_dynamic_vram": true,
+    "use_pytorch_cross_attention": true
+  },
+  "prompt": "subject_definitions:\n<Subject 1> is the single rhinoceros in <Picture 1>, the visible speaker (S1).\n<Picture 1> is the complete composition anchor for the full video. Its visible content is: The linked presenter image shows the single rhinoceros speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n<Audio 1> is the supplied speech recording spoken by <Subject 1> (S1) and copied unchanged as the final soundtrack.\n\nsummary:\n[reference generation + audio reuse] One continuous 15-second static view of the original portrait, with the original animal speaking in place. The described reference composition persists throughout every sentence and pause.\n\nretention_analysis:\n<Subject 1> (throughout [Shot 1]): fully_preserved - the original face, body, markings, facial-feature arrangement, species-native anatomy, pose and orientation remain intact during small localized speech movements.\n<Picture 1> ([Shot 1] composition anchor throughout): fully_preserved - every described visible feature, object, surface, background element and spatial relationship retains its original appearance and placement. Camera viewpoint, crop, subject scale, perspective, focus and lighting stay constant.\n<Audio 1>: fully_copy - the supplied recording is the complete final soundtrack, retaining the original voice, words, delivery, pauses and timing.\n\ndetailed_description:\nThe photographic appearance is taken directly from <Picture 1>.\n[Shot 1] The camera holds one static shot of this exact composition: The linked presenter image shows the single rhinoceros speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n\nThe single <Subject 1> remains in that original position and posture with its head at the pictured angle. Each described detail remains visible in its reference location from beginning to end. The original microphone and its support remain stationary. The surrounding surfaces and background maintain their existing appearance and geometry. Subject size and framing remain constant while the animal speaks.\n\nThe full shot remains registered to the same image: the top of the head, the outer body contour, the microphone and the background landmarks keep the same distances from all four frame edges at every moment. The middle of the recording retains exactly the opening scale and placement, including across pauses and sentence boundaries.\n\n<Subject 1> (S1) says on screen with the timing and delivery of the unchanged <Audio 1>: <d>[English] Hello everyone. It is me, Rina the Rhinoceros, back again for another tiny chat. I hope you are all doing wonderful in your own corner of the world today. I want to talk about something that feel.</d>\n\nThe existing visible mouth or beak gently opens, articulates the syllables and closes in time with the supplied speech, accompanied by a small localized jaw opening. Articulation remains clearly visible throughout each spoken phrase while the muzzle or beak retains its native proportions and the head stays at its original angle. Actual pauses bring a natural resting mouth; the next audible syllable restarts articulation. Only the native mouth articulates: preserve its anatomical location and any existing occlusion, without adding human lips or a new mouth on the trunk, neck or body. Speech is conveyed within this portrait while the setting stays as pictured.\n\nThe body, paws, wings, clothes and accessories stay in their pictured positions. Only the native mouth or beak makes small speech movements. The head and torso retain their original scale and position in every frame. The final frame keeps the opening composition.\n\noverall_soundscape:\nAll audible content comes from the copied recording <Audio 1>, including any original ambience.\n\nnon_diegetic_music:\nN/A",
+  "initialization_seconds": 2.2244414063170552
+}

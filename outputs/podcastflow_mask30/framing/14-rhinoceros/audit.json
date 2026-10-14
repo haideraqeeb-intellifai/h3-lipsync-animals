@@ -1,0 +1,193 @@
+{
+  "case_id": "14-rhinoceros",
+  "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+  "verdict": "pass",
+  "scale_range": [
+    0.9918620572058613,
+    1.0052924371186955
+  ],
+  "samples": [
+    {
+      "frame": 0,
+      "second": 0.0,
+      "matches": 198,
+      "inliers": 174,
+      "subject_scale": 1.000410789710726,
+      "translation_px": [
+        -0.9224343923778578,
+        0.3833143781135396
+      ]
+    },
+    {
+      "frame": 24,
+      "second": 1.0,
+      "matches": 176,
+      "inliers": 149,
+      "subject_scale": 0.9991950129239174,
+      "translation_px": [
+        1.19510868533241,
+        0.8149578131591709
+      ]
+    },
+    {
+      "frame": 48,
+      "second": 2.0,
+      "matches": 156,
+      "inliers": 100,
+      "subject_scale": 1.0039645055175648,
+      "translation_px": [
+        -2.5929367162279258,
+        -2.9801510056367064
+      ]
+    },
+    {
+      "frame": 72,
+      "second": 3.0,
+      "matches": 157,
+      "inliers": 107,
+      "subject_scale": 1.0005563346844422,
+      "translation_px": [
+        -0.8770233377501476,
+        -0.6860571828313002
+      ]
+    },
+    {
+      "frame": 96,
+      "second": 4.0,
+      "matches": 161,
+      "inliers": 93,
+      "subject_scale": 0.998071684044982,
+      "translation_px": [
+        6.750488742114708,
+        -0.9746127631885602
+      ]
+    },
+    {
+      "frame": 120,
+      "second": 5.0,
+      "matches": 151,
+      "inliers": 114,
+      "subject_scale": 1.000218987164769,
+      "translation_px": [
+        -4.627499029924508,
+        0.32571022509721376
+      ]
+    },
+    {
+      "frame": 144,
+      "second": 6.0,
+      "matches": 158,
+      "inliers": 89,
+      "subject_scale": 0.9918620572058613,
+      "translation_px": [
+        2.543739787718721,
+        2.729482535316113
+      ]
+    },
+    {
+      "frame": 168,
+      "second": 7.0,
+      "matches": 151,
+      "inliers": 105,
+      "subject_scale": 0.9964696875803547,
+      "translation_px": [
+        3.631182312725837,
+        2.203111161031869
+      ]
+    },
+    {
+      "frame": 192,
+      "second": 8.0,
+      "matches": 166,
+      "inliers": 80,
+      "subject_scale": 1.0001695778323532,
+      "translation_px": [
+        -0.5466550385066298,
+        0.1439563002599638
+      ]
+    },
+    {
+      "frame": 216,
+      "second": 9.0,
+      "matches": 187,
+      "inliers": 99,
+      "subject_scale": 1.0052924371186955,
+      "translation_px": [
+        -0.020375524507666887,
+        -6.070811196007768
+      ]
+    },
+    {
+      "frame": 240,
+      "second": 10.0,
+      "matches": 143,
+      "inliers": 79,
+      "subject_scale": 1.0011893440468502,
+      "translation_px": [
+        -0.25944379765961856,
+        -0.35375163742645577
+      ]
+    },
+    {
+      "frame": 264,
+      "second": 11.0,
+      "matches": 161,
+      "inliers": 91,
+      "subject_scale": 0.9965057325842457,
+      "translation_px": [
+        4.9741670452051565,
+        1.0236495151144045
+      ]
+    },
+    {
+      "frame": 288,
+      "second": 12.0,
+      "matches": 157,
+      "inliers": 77,
+      "subject_scale": 0.995601074845086,
+      "translation_px": [
+        4.409924888977461,
+        5.636669855821392
+      ]
+    },
+    {
+      "frame": 312,
+      "second": 13.0,
+      "matches": 180,
+      "inliers": 117,
+      "subject_scale": 0.9989791204078314,
+      "translation_px": [
+        -2.4485499971551645,
+        2.514788542207188
+      ]
+    },
+    {
+      "frame": 336,
+      "second": 14.0,
+      "matches": 161,
+      "inliers": 105,
+      "subject_scale": 0.9966020611488288,
+      "translation_px": [
+        4.722755978502327,
+        1.2206168673946016
+      ]
+    },
+    {
+      "frame": 359,
+      "second": 14.958333333333334,
+      "matches": 158,
+      "inliers": 76,
+      "subject_scale": 0.9923115237307757,
+      "translation_px": [
+        3.808540949136323,
+        8.42971741476946
+      ]
+    }
+  ],
+  "mask_box": [
+    0.17,
+    0.15,
+    0.88,
+    0.87
+  ]
+}

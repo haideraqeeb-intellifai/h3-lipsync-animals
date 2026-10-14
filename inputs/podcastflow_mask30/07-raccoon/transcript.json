@@ -1,0 +1,22 @@
+{
+  "text": "Welcome to my cozy hollow everyone. I am Remy and today we are talking about the fine messy art of organizing my most prized treasures You know the shiny clinking precious things. My den is currently a bit of a disaster zone I have got shiny bottle caps smooth",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5200000000000005,
+      "text": "Welcome to my cozy hollow everyone. I am Remy and today we are talking about the fine messy art of organizing my most prized treasures"
+    },
+    {
+      "start": 7.5200000000000005,
+      "end": 12.8,
+      "text": "You know the shiny clinking precious things. My den is currently a bit of a disaster zone"
+    },
+    {
+      "start": 12.8,
+      "end": 14.9,
+      "text": "I have got shiny bottle caps smooth"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

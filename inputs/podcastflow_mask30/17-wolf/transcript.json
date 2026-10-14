@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, it is your pal Wade the Wolf and today I want to talk about something really fun. Have you ever tried keeping a sound diary? Most folks keep journals with words but sounds tell a different story. They capture the vibe of your day in a way that ink on paper just cannot",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Hello there, it is your pal Wade the Wolf and today I want to talk about something really fun."
+    },
+    {
+      "start": 5.2,
+      "end": 10.24,
+      "text": "Have you ever tried keeping a sound diary? Most folks keep journals with words but sounds tell"
+    },
+    {
+      "start": 10.24,
+      "end": 14.88,
+      "text": "a different story. They capture the vibe of your day in a way that ink on paper just cannot"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

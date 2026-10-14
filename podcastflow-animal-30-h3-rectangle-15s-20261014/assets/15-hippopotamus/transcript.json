@@ -1,0 +1,22 @@
+{
+  "text": "Hello there friends, it is Hugo the Hippopotamus here, and oh does it sound wonderful outside today? Listen to that steady rhythm hitting the roof. Rainy days are just nature's way of telling us to slow down, take a deep breath and appreciate being co-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello there friends, it is Hugo the Hippopotamus here, and oh does it sound wonderful outside today?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Listen to that steady rhythm hitting the roof."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "Rainy days are just nature's way of telling us to slow down, take a deep breath and appreciate being co-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

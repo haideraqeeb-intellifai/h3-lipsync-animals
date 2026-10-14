@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, I am Mila, your friendly neighbourhood otter. Today, let's talk about the magic of tiny projects. You don't need a huge budget or fancy tools to find some real creative-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Hello there, I am Mila, your friendly neighbourhood otter."
+    },
+    {
+      "start": 5.16,
+      "end": 9.52,
+      "text": "Today, let's talk about the magic of tiny projects."
+    },
+    {
+      "start": 9.52,
+      "end": 14.92,
+      "text": "You don't need a huge budget or fancy tools to find some real creative-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e1-81c3-71e8-9570-6921f42fca91.mp4",
+  "animal": "Capybara",
+  "presenter": "Cora Capybara",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/cora-capybara-01a136e1-299f-726f-9912-f6118d18e309-headshot.jpg",
+  "id": "22-capybara",
+  "number": 22,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "865b7d2e04d61a5e096e41c52b737048b5874bea98b41fcf71056b6fca89d905",
+  "audio_sha256": "78679faf45d7aa1288b7d2f8ff3e8540cec695035e2233d3db230605b9a2a0b7"
+}

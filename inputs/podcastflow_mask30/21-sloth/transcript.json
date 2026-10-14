@@ -1,0 +1,22 @@
+{
+  "text": "Hello there my slow-moving friends welcome back to the canopy I am your host Sid here to tell you why rushing is just plain overrated today Let us talk about hobbies. You know those fun things",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "Hello there my slow-moving friends welcome back to the canopy"
+    },
+    {
+      "start": 4.44,
+      "end": 10.8,
+      "text": "I am your host Sid here to tell you why rushing is just plain overrated today"
+    },
+    {
+      "start": 10.98,
+      "end": 14.94,
+      "text": "Let us talk about hobbies. You know those fun things"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

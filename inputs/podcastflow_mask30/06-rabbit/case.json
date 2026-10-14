@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136db-67e6-732b-880e-993f2e81ecb1.mp4",
+  "animal": "Rabbit",
+  "presenter": "Rosie Rabbit",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/rosie-rabbit-01a136db-1fd1-7357-87d4-2745dc9bc412-headshot.jpg",
+  "id": "06-rabbit",
+  "number": 6,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "4b2859f5be26b6c0f2126b0654d8ea77a087c521e9389235c0639da959b086da",
+  "audio_sha256": "bd53bb012fe6feb5a0b2dd7be0a36c6077c4b93f1f1d666a957402ad4390440d",
+  "animal_mask_box": [
+    0.2,
+    0.04,
+    0.82,
+    0.86
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "2a3d9a97b6da3443a5b2ca31b3d43a03e76bc19dd9b122ebb9bc3a312edb4b03",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "4b2859f5be26b6c0f2126b0654d8ea77a087c521e9389235c0639da959b086da",
+    "audio.wav": "bd53bb012fe6feb5a0b2dd7be0a36c6077c4b93f1f1d666a957402ad4390440d",
+    "prompt.txt": "13b36b16fe44f9d58dacda5a6480331666bd91c8ca4255410ec89729c7482ab5"
+  }
+}

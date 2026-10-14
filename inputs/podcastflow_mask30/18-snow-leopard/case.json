@@ -1,0 +1,38 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136df-b594-72e0-be6d-927dce3de5f7.mp4",
+  "animal": "Snow Leopard",
+  "presenter": "Luna Snow Leopard",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/luna-snow-leopard-01a136df-73c9-719e-9ee6-0d9cb4008558-headshot.jpg",
+  "id": "18-snow-leopard",
+  "number": 18,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "96cb5c27b00225d85493d52ef8f772924d86a3fe88ff24b49a28f5d26df6ed35",
+  "audio_sha256": "2f7459174fba58b61575888ae03b19e728696c4c6a69a6cbb6ceb0a09091d13b",
+  "animal_mask_box": [
+    0.19,
+    0.07,
+    0.79,
+    0.93
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "24d6c88ac6c0fd1a31492386aa79e8c325924a1baed81ca8a78638ab27910f51",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "96cb5c27b00225d85493d52ef8f772924d86a3fe88ff24b49a28f5d26df6ed35",
+    "audio.wav": "2f7459174fba58b61575888ae03b19e728696c4c6a69a6cbb6ceb0a09091d13b",
+    "prompt.txt": "6b3c5eab9b0b3dc0c997fff5315715c4b033b4abcba9d3ec905c3263844d2f66"
+  }
+}

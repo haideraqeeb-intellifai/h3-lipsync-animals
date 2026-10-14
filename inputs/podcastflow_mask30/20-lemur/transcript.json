@@ -1,0 +1,17 @@
+{
+  "text": "Hello there, it is Lila here. Have you ever looked at a bowl of fruit and seen a tiny colorful jungle waiting to happen? Let us make a story. Start with something simple. Imagine a banana that thinks it is a yellow submarine.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello there, it is Lila here. Have you ever looked at a bowl of fruit and seen a tiny colorful jungle waiting to happen? Let us make a story."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "Start with something simple. Imagine a banana that thinks it is a yellow submarine."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

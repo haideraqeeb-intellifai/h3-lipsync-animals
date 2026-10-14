@@ -1,0 +1,150 @@
+{
+  "status": "complete",
+  "frames": 362,
+  "fps": 24,
+  "width": 640,
+  "height": 1120,
+  "steps": 4,
+  "seed": 42,
+  "ref_image_size": "match",
+  "runs": [
+    {
+      "phase": "cold_pilot",
+      "generation_seconds": 134.3542296141386,
+      "components_seconds": {
+        "node/VAELoader": 0.13288495317101479,
+        "node/CLIPLoader": 0.4836369566619396,
+        "text_encoder": 5.191510369069874,
+        "node/LionAudioConditioning": 8.74408110883087,
+        "node/UNETLoader": 0.030722228810191154,
+        "node/MiniMaxH3TurboLoRA": 0.02286311611533165,
+        "node/PilotSage": 8.868705481290817e-05,
+        "node/BasicScheduler": 0.00011876225471496582,
+        "node/MiniMaxH3TurboSampler": 6.582587957382202e-06,
+        "node/BasicGuider": 2.211146056652069e-05,
+        "node/RandomNoise": 5.501322448253632e-06,
+        "denoising_loop": 95.5900491187349,
+        "node/SamplerCustomAdvanced": 96.31612430792302,
+        "node/AuditAudioLatent": 0.008591018617153168,
+        "node/VAEDecode": 24.71198819577694,
+        "node/CreateVideo": 4.219915717840195e-05,
+        "node/SaveVideo": 3.3499691542237997
+      },
+      "counts": {
+        "fixed_audio_forwards": 4,
+        "sage_dispatches": 200,
+        "sage_cuda_completed": 200
+      },
+      "audio_audit": {
+        "animal_mask_latent_box": [
+          10,
+          8,
+          32,
+          62
+        ],
+        "gesture_mask_ellipses": [],
+        "video_mask_fraction": 0.4242857098579407,
+        "audio_latent_shape": [
+          1,
+          32,
+          2,
+          603
+        ],
+        "source_audio_samples": 720000,
+        "source_sample_rate": 48000,
+        "model_sample_rate": 32000,
+        "audio_mask": 0,
+        "video_mask": "animal_rectangle",
+        "forward_audio_checks": [
+          {
+            "timestep": 1000.0,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 972.9729614257812,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 923.076904296875,
+            "max_error_after_compute_cast": 0.0
+          },
+          {
+            "timestep": 800.0,
+            "max_error_after_compute_cast": 0.0
+          }
+        ],
+        "output_audio_latent_max_error": 0.0,
+        "output_video_latent_outside_mask_max_error": 0.0
+      },
+      "video": "/home/raqeeb/code/h3-optimization/flash-vs-h3/outputs/podcastflow_mask30_final_08-red-squirrel/runtime/output/cold_pilot/lion_00001_.mp4",
+      "peak_device_mib": 23103.25,
+      "peak_allocated_gib": 10.386090755462646,
+      "visual_gate": {
+        "status": "passed",
+        "method": "Three decoded grayscale frames. Reject contrast below 20 percent of the reference or a p99-p1 range below 24/255. A near-blank rejection check only, not semantic fidelity or lip-sync validation.",
+        "samples": [
+          {
+            "time_seconds": 1.5083333,
+            "contrast_ratio_to_reference": 1.0252015181995555,
+            "p99_minus_p1": 183.0,
+            "passed": true
+          },
+          {
+            "time_seconds": 7.5416665,
+            "contrast_ratio_to_reference": 1.1126886122695412,
+            "p99_minus_p1": 210.0,
+            "passed": true
+          },
+          {
+            "time_seconds": 13.5749997,
+            "contrast_ratio_to_reference": 1.151942760034903,
+            "p99_minus_p1": 223.0,
+            "passed": true
+          }
+        ]
+      }
+    }
+  ],
+  "input_audio_seconds": 15.0,
+  "static_plate_mode": "repeated_chunk",
+  "mouth_mask_box": null,
+  "animal_mask_box": [
+    0.25,
+    0.14,
+    0.79,
+    0.88
+  ],
+  "animal_mask_image": null,
+  "gesture_mask_ellipses": [],
+  "case_id": "08-red-squirrel",
+  "conditioning": "reference image + reference audio + fixed audio latent + static portrait latent with one animal rectangle",
+  "patch": "ComfyUI H3 per-token video mask + fixed audio; original pinned legacy AV schedule retained",
+  "memory_adaptation": "LoRA residual blocks 4096 rows; token-independent MLP blocks 8192 rows; expandable CUDA allocator; 20 GiB reserved for workspace; weights and strength unchanged",
+  "timing_boundary": "workflow execution through native video and supplied audio saved; CUDA synchronized; nested timers overlap",
+  "comfy_revision": "e377e263049f9338b4d12a3dd417b36ae62948ff",
+  "source_files_sha256": {
+    "run_pilot.py": "27965a1070b8b50efbc7265ac53710c16eae498453f3f2307e4e0c58e4832296",
+    "visual_gate.py": "27ae2e86626e58610fa36089c250014ecd2b399193ee8e91db3d92eb2e454954",
+    "ComfyUI/comfy/model_base.py": "ee30ac579fa98a5f4e61725a52fc93fa2318d661a157ee2950a6e3afca70019a",
+    "ComfyUI/comfy/ldm/minimax/model.py": "ebdd1b5190ebcb24916e530cf637c17c72090898956adb3eff4bcafb081f57cf",
+    "turbo/__init__.py": "7631e6c1d6bd71eeb9e4d6aa2495ab96df1d31d008b1aa3eed41cc6438939943"
+  },
+  "inputs_sha256": {
+    "reference.jpg": "8b8af5360033cc960b59405a9367cdcdc0b95dec21a8c5a10256a1bed0b02b38",
+    "audio.wav": "95ac7c487881b0643130c622d7c76c7e21439521d768baffdea23b49deb26be7",
+    "prompt.txt": "c04e73571ce0ca6ba4bb826dac02d366dc3e37695f637bc5eb7df8fe2090cc4b"
+  },
+  "hardware": "name, uuid, driver_version, memory.total [MiB]\nNVIDIA GeForce RTX 5090, GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8, 595.84, 32607 MiB\n",
+  "packages": {
+    "torch": "2.11.0+cu130",
+    "sageattention": "2.2.0",
+    "torchaudio": "2.11.0+cu130"
+  },
+  "verified_cli_settings": {
+    "reserve_vram_gib": 20.0,
+    "enable_dynamic_vram": true,
+    "use_pytorch_cross_attention": true
+  },
+  "prompt": "subject_definitions:\n<Subject 1> is the single red squirrel in <Picture 1>, the visible speaker (S1).\n<Picture 1> is the complete composition anchor for the full video. Its visible content is: The linked presenter image shows the single red squirrel speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n<Audio 1> is the supplied speech recording spoken by <Subject 1> (S1) and copied unchanged as the final soundtrack.\n\nsummary:\n[reference generation + audio reuse] One continuous 15-second static view of the original portrait, with the original animal speaking in place. The described reference composition persists throughout every sentence and pause.\n\nretention_analysis:\n<Subject 1> (throughout [Shot 1]): fully_preserved - the original face, body, markings, facial-feature arrangement, species-native anatomy, pose and orientation remain intact during small localized speech movements.\n<Picture 1> ([Shot 1] composition anchor throughout): fully_preserved - every described visible feature, object, surface, background element and spatial relationship retains its original appearance and placement. Camera viewpoint, crop, subject scale, perspective, focus and lighting stay constant.\n<Audio 1>: fully_copy - the supplied recording is the complete final soundtrack, retaining the original voice, words, delivery, pauses and timing.\n\ndetailed_description:\nThe photographic appearance is taken directly from <Picture 1>.\n[Shot 1] The camera holds one static shot of this exact composition: The linked presenter image shows the single red squirrel speaker exactly as pictured. Keep its species-specific face, markings, covering, accessories, posture, microphone, chair, tabletop and background at their pictured sizes and positions. Preserve the complete frame edges and the original camera viewpoint.\n\nThe single <Subject 1> remains in that original position and posture with its head at the pictured angle. Each described detail remains visible in its reference location from beginning to end. The original microphone and its support remain stationary. The surrounding surfaces and background maintain their existing appearance and geometry. Subject size and framing remain constant while the animal speaks.\n\nThe full shot remains registered to the same image: the top of the head, the outer body contour, the microphone and the background landmarks keep the same distances from all four frame edges at every moment. The middle of the recording retains exactly the opening scale and placement, including across pauses and sentence boundaries.\n\n<Subject 1> (S1) says on screen with the timing and delivery of the unchanged <Audio 1>: <d>[English] Hello there forest friends, it is Sylvie here. Is your tale twitchy with excitement? The weekend is almost upon us and I have the perfect cozy plan for staying warm and happy in the trees. First we must gather the best treasures. I am thinking of those crunchy acorns hidden near the oak root. A squirrel needs a good snack stash-</d>\n\nThe existing visible mouth or beak gently opens, articulates the syllables and closes in time with the supplied speech, accompanied by a small localized jaw opening. Articulation remains clearly visible throughout each spoken phrase while the muzzle or beak retains its native proportions and the head stays at its original angle. Actual pauses bring a natural resting mouth; the next audible syllable restarts articulation. Only the native mouth articulates: preserve its anatomical location and any existing occlusion, without adding human lips or a new mouth on the trunk, neck or body. Speech is conveyed within this portrait while the setting stays as pictured.\n\nThe body, paws, wings, clothes and accessories stay in their pictured positions. Only the native mouth or beak makes small speech movements. The head and torso retain their original scale and position in every frame. The final frame keeps the opening composition.\n\noverall_soundscape:\nAll audible content comes from the copied recording <Audio 1>, including any original ambience.\n\nnon_diegetic_music:\nN/A",
+  "initialization_seconds": 2.2131938207894564
+}

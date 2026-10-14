@@ -1,0 +1,22 @@
+{
+  "text": "Hello there, it is Luna. Today I want to talk about finding magic in the quiet. Have you ever just sat still and watched the way the morning light hits a patch of moss on a grey rock? It feels like a tiny secret garden, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello there, it is Luna. Today I want to talk about finding magic in the quiet."
+    },
+    {
+      "start": 6.0,
+      "end": 13.0,
+      "text": "Have you ever just sat still and watched the way the morning light hits a patch of moss on a grey rock?"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "It feels like a tiny secret garden, right?"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

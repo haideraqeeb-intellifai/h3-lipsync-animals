@@ -1,0 +1,17 @@
+{
+  "text": "Hello there, my forest friends. It is Kiki here, perched high in my favourite branch. Today, I want to talk about the tiny, wonderful shapes hanging right in front of my fuzzy nose.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "Hello there, my forest friends. It is Kiki here, perched high in my favourite branch."
+    },
+    {
+      "start": 7.2,
+      "end": 15.200000000000001,
+      "text": "Today, I want to talk about the tiny, wonderful shapes hanging right in front of my fuzzy nose."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

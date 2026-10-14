@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e8-1779-732d-887f-c98599f23a3f.mp4",
+  "animal": "Penguin",
+  "presenter": "Pippa Penguin",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/pippa-penguin-01a136e7-83ed-712b-886d-c8db19f06705-headshot.jpg",
+  "id": "30-penguin",
+  "number": 30,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "c1dcc632e56e8568ba0183c6ae14ae2dd6786c405f0b2d74c2d0f49a8d658e72",
+  "audio_sha256": "04f781b815b86116dabe19f870c82a712898d67a10f20f3ae6d338b937bb3892"
+}

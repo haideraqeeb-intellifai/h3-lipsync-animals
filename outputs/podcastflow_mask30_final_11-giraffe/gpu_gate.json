@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "idle_baseline_bytes": 1114112,
+  "baseline_evidence": "Host observation before any benchmark CUDA context, no compute or graphics processes; exact stable NVML v2 baseline, driver reservation recorded separately",
+  "attempts": [
+    [
+      {
+        "timestamp": 1791929886.3451529,
+        "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+        "utilization_percent": 0,
+        "memory_used_bytes": 1114112,
+        "driver_reserved_bytes": 520159232,
+        "compute_pids": [],
+        "graphics_pids": []
+      },
+      {
+        "timestamp": 1791929887.347782,
+        "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+        "utilization_percent": 0,
+        "memory_used_bytes": 1114112,
+        "driver_reserved_bytes": 520159232,
+        "compute_pids": [],
+        "graphics_pids": []
+      },
+      {
+        "timestamp": 1791929888.3483639,
+        "uuid": "GPU-c2beb57c-2ee3-c3f4-eef3-fd2e0ca955c8",
+        "utilization_percent": 0,
+        "memory_used_bytes": 1114112,
+        "driver_reserved_bytes": 520159232,
+        "compute_pids": [],
+        "graphics_pids": []
+      }
+    ]
+  ]
+}

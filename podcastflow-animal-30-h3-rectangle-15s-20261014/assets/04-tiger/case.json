@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136da-baf3-731a-bb36-48b6c31ff188.mp4",
+  "animal": "Tiger",
+  "presenter": "Tara Tiger",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/tara-tiger-01a136da-7d0b-7095-a14e-7f313241f979-headshot.jpg",
+  "id": "04-tiger",
+  "number": 4,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "393823a5c9e7522e1accc0fc86aa0965c405f3ad64fd9209e630b3dca722331d",
+  "audio_sha256": "d8978aa6a5771cd98f76f2cea36d3c45541c8d2670e8568d2872867e1a593d91",
+  "animal_mask_box": [
+    0.12,
+    0.1,
+    0.9,
+    0.86
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "8cd53f91697cee7c9c82a2a4a63628958e524a5f03f9f6e1a45ccb33bdd27260",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "393823a5c9e7522e1accc0fc86aa0965c405f3ad64fd9209e630b3dca722331d",
+    "audio.wav": "d8978aa6a5771cd98f76f2cea36d3c45541c8d2670e8568d2872867e1a593d91",
+    "prompt.txt": "83661e84c6e37df9c41572e701146a1dad30850be05065a94fa1a793288b2210"
+  }
+}

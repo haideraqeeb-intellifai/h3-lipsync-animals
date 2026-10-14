@@ -1,0 +1,2897 @@
+[
+  {
+    "case_id": "01-fox",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9993835263435171,
+      1.0104133948612306
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 302,
+        "inliers": 280,
+        "subject_scale": 1.0034736403941598,
+        "translation_px": [
+          -1.1440383521717061,
+          -2.1533926361787303
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 256,
+        "inliers": 196,
+        "subject_scale": 1.0065858862724477,
+        "translation_px": [
+          -3.6533314143411832,
+          -4.926748286089607
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 279,
+        "inliers": 219,
+        "subject_scale": 1.006498575371283,
+        "translation_px": [
+          -2.3592587034173147,
+          -3.949339647980394
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 229,
+        "inliers": 159,
+        "subject_scale": 1.0052228271106398,
+        "translation_px": [
+          -0.748397502369187,
+          -3.936365305811901
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 225,
+        "inliers": 172,
+        "subject_scale": 1.0094785137026074,
+        "translation_px": [
+          -3.3418061960399923,
+          -6.835962732681141
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 282,
+        "inliers": 213,
+        "subject_scale": 1.0071180577046195,
+        "translation_px": [
+          -2.8312280511547714,
+          -4.953054197435381
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 263,
+        "inliers": 214,
+        "subject_scale": 1.008136623486297,
+        "translation_px": [
+          -4.5210171497216,
+          -5.661311081636651
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 276,
+        "inliers": 212,
+        "subject_scale": 1.0094788614733092,
+        "translation_px": [
+          -4.362883031530577,
+          -6.4678608679649825
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 279,
+        "inliers": 220,
+        "subject_scale": 1.0072852722221575,
+        "translation_px": [
+          -2.037875362756412,
+          -5.715065564525075
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 261,
+        "inliers": 124,
+        "subject_scale": 0.9993835263435171,
+        "translation_px": [
+          2.8521797322259044,
+          1.0714253567315135
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 293,
+        "inliers": 259,
+        "subject_scale": 1.0095853185358286,
+        "translation_px": [
+          -3.280206328035506,
+          -6.364364340680586
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 270,
+        "inliers": 226,
+        "subject_scale": 1.0053842248922462,
+        "translation_px": [
+          -0.8213290526755023,
+          -3.398010100752937
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 229,
+        "inliers": 170,
+        "subject_scale": 1.0104133948612306,
+        "translation_px": [
+          -0.6967140577081987,
+          -7.413292182807712
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 284,
+        "inliers": 200,
+        "subject_scale": 1.007782147280799,
+        "translation_px": [
+          -2.255112871896104,
+          -5.789274180272347
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 268,
+        "inliers": 178,
+        "subject_scale": 1.0067109384625366,
+        "translation_px": [
+          -0.8573936753911359,
+          -6.058576659812099
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 269,
+        "inliers": 216,
+        "subject_scale": 1.0059080592004286,
+        "translation_px": [
+          -0.4370496454240354,
+          -4.024696011122032
+        ]
+      }
+    ],
+    "mask_box": [
+      0.18,
+      0.12,
+      0.84,
+      0.86
+    ]
+  },
+  {
+    "case_id": "02-otter",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9983754281379399,
+      1.0065639522568817
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 162,
+        "inliers": 129,
+        "subject_scale": 0.9985207178991732,
+        "translation_px": [
+          0.922045606370574,
+          0.1134481467068933
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 155,
+        "inliers": 139,
+        "subject_scale": 1.001587279643532,
+        "translation_px": [
+          -0.29787211176400263,
+          -1.60316728121115
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 114,
+        "inliers": 81,
+        "subject_scale": 1.0026867696929178,
+        "translation_px": [
+          -1.2757097613125807,
+          -0.9815537800570043
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 106,
+        "inliers": 70,
+        "subject_scale": 1.0035221097738767,
+        "translation_px": [
+          -0.8781408512918003,
+          -1.892114698304071
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 111,
+        "inliers": 74,
+        "subject_scale": 1.0027251621009936,
+        "translation_px": [
+          -1.32924087049,
+          0.08793230959320808
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 139,
+        "inliers": 120,
+        "subject_scale": 0.9983754281379399,
+        "translation_px": [
+          1.480783878016524,
+          0.6209689927082165
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 142,
+        "inliers": 121,
+        "subject_scale": 1.0033323607539923,
+        "translation_px": [
+          -0.932172936145562,
+          -2.182568483027124
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 132,
+        "inliers": 92,
+        "subject_scale": 1.003875788238678,
+        "translation_px": [
+          -1.475238895836358,
+          -3.374553454211424
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 124,
+        "inliers": 84,
+        "subject_scale": 1.0039441966798865,
+        "translation_px": [
+          -2.510285940461164,
+          -0.9703412762915545
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 112,
+        "inliers": 96,
+        "subject_scale": 1.000585406545951,
+        "translation_px": [
+          0.03614734790112191,
+          -0.15041047302990343
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 124,
+        "inliers": 65,
+        "subject_scale": 1.0065639522568817,
+        "translation_px": [
+          -1.9776653776272122,
+          -4.764088906025035
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 119,
+        "inliers": 91,
+        "subject_scale": 1.0043098000558306,
+        "translation_px": [
+          -2.563193998911279,
+          -1.6550095212059925
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 115,
+        "inliers": 81,
+        "subject_scale": 1.0034336037976634,
+        "translation_px": [
+          -2.8047158203685476,
+          -0.0016270414694876667
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 121,
+        "inliers": 93,
+        "subject_scale": 1.003022812027817,
+        "translation_px": [
+          -1.4877336320498307,
+          -0.6420619042389246
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 122,
+        "inliers": 91,
+        "subject_scale": 1.002564666696982,
+        "translation_px": [
+          -2.280672067147994,
+          -0.17948939520763263
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 126,
+        "inliers": 99,
+        "subject_scale": 1.0039582549038002,
+        "translation_px": [
+          -1.6693372590045779,
+          -1.221841664428319
+        ]
+      }
+    ],
+    "mask_box": [
+      0.3,
+      0.12,
+      0.7,
+      0.91
+    ]
+  },
+  {
+    "case_id": "03-lion",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9952074845359652,
+      1.0206149367148456
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 442,
+        "inliers": 417,
+        "subject_scale": 1.0042054819395514,
+        "translation_px": [
+          -0.7144218118962343,
+          -2.7143677052261883
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 373,
+        "inliers": 200,
+        "subject_scale": 1.015579053988782,
+        "translation_px": [
+          -4.106561101530147,
+          -12.145846989427945
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 338,
+        "inliers": 189,
+        "subject_scale": 1.01818696422077,
+        "translation_px": [
+          -6.626640555904195,
+          -13.35711292785891
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 372,
+        "inliers": 207,
+        "subject_scale": 1.016115381440711,
+        "translation_px": [
+          -5.48732490820117,
+          -12.513647688364495
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 338,
+        "inliers": 185,
+        "subject_scale": 1.0067049831687378,
+        "translation_px": [
+          -2.2018932264371136,
+          -5.821577823555326
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 360,
+        "inliers": 176,
+        "subject_scale": 1.0155015115650328,
+        "translation_px": [
+          -4.72012461911243,
+          -13.577069194828395
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 331,
+        "inliers": 131,
+        "subject_scale": 1.0206149367148456,
+        "translation_px": [
+          -5.562001668476068,
+          -17.413052382371486
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 381,
+        "inliers": 240,
+        "subject_scale": 1.012730074529189,
+        "translation_px": [
+          -3.251920777049876,
+          -10.486151306061656
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 384,
+        "inliers": 251,
+        "subject_scale": 1.0147014963102827,
+        "translation_px": [
+          -4.622826006005672,
+          -11.649359664611723
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 365,
+        "inliers": 202,
+        "subject_scale": 1.0147640265442617,
+        "translation_px": [
+          -4.825779402494693,
+          -11.219471907454519
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 401,
+        "inliers": 242,
+        "subject_scale": 1.011536560095551,
+        "translation_px": [
+          -2.583908570463967,
+          -9.09157931769656
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 334,
+        "inliers": 184,
+        "subject_scale": 1.0174421940768388,
+        "translation_px": [
+          -4.203206187164777,
+          -13.995240740257193
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 288,
+        "inliers": 132,
+        "subject_scale": 1.0060404217751486,
+        "translation_px": [
+          -3.885936423250332,
+          -3.232771590192646
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 347,
+        "inliers": 157,
+        "subject_scale": 1.0153371682289383,
+        "translation_px": [
+          -3.5520225600057587,
+          -13.103146891563576
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 346,
+        "inliers": 124,
+        "subject_scale": 0.9952074845359652,
+        "translation_px": [
+          2.493265232868272,
+          -6.850261913043542
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 420,
+        "inliers": 357,
+        "subject_scale": 1.0052207735718435,
+        "translation_px": [
+          1.0038743592984138,
+          -4.456403646272051
+        ]
+      }
+    ],
+    "mask_box": [
+      0.16,
+      0.11,
+      0.86,
+      0.87
+    ]
+  },
+  {
+    "case_id": "04-tiger",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      1.0035973190547869,
+      1.0222305629681292
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 530,
+        "inliers": 485,
+        "subject_scale": 1.0035973190547869,
+        "translation_px": [
+          -0.727340041338106,
+          -2.498468980695535
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 472,
+        "inliers": 236,
+        "subject_scale": 1.018178090952638,
+        "translation_px": [
+          -5.501864805646401,
+          -14.469276805598128
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 464,
+        "inliers": 328,
+        "subject_scale": 1.0086188583538616,
+        "translation_px": [
+          -0.8520912566428228,
+          -6.657136673540816
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 379,
+        "inliers": 206,
+        "subject_scale": 1.0082992289764448,
+        "translation_px": [
+          -0.0041489286678342285,
+          -7.1895097883979036
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 334,
+        "inliers": 135,
+        "subject_scale": 1.015154559469713,
+        "translation_px": [
+          -5.048871826759972,
+          -11.190628761257237
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 418,
+        "inliers": 241,
+        "subject_scale": 1.0126056570747837,
+        "translation_px": [
+          -2.3981553117942394,
+          -9.966426563034588
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 436,
+        "inliers": 212,
+        "subject_scale": 1.0085881385693274,
+        "translation_px": [
+          -4.816117635469034,
+          -5.685310350100265
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 425,
+        "inliers": 163,
+        "subject_scale": 1.0085729219477237,
+        "translation_px": [
+          -2.890273502334393,
+          -5.533740057344991
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 437,
+        "inliers": 275,
+        "subject_scale": 1.0056235410533654,
+        "translation_px": [
+          0.5930865205005673,
+          -4.088794195834735
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 414,
+        "inliers": 185,
+        "subject_scale": 1.0088773888841553,
+        "translation_px": [
+          -2.132981660071197,
+          -5.691965464863112
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 407,
+        "inliers": 162,
+        "subject_scale": 1.0222305629681292,
+        "translation_px": [
+          -6.367251368357229,
+          -16.793366031863386
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 450,
+        "inliers": 258,
+        "subject_scale": 1.0131278112002542,
+        "translation_px": [
+          -2.908978306819067,
+          -10.194461138883213
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 441,
+        "inliers": 163,
+        "subject_scale": 1.0194121576027184,
+        "translation_px": [
+          -5.29443057288617,
+          -14.214576279425547
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 377,
+        "inliers": 151,
+        "subject_scale": 1.010378736936274,
+        "translation_px": [
+          -0.1922097623142115,
+          -8.832039347114062
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 367,
+        "inliers": 156,
+        "subject_scale": 1.004813234834374,
+        "translation_px": [
+          -1.2251596765059427,
+          -3.1180184816932766
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 362,
+        "inliers": 151,
+        "subject_scale": 1.0041543478950823,
+        "translation_px": [
+          4.113335331940205,
+          -4.340720187611253
+        ]
+      }
+    ],
+    "mask_box": [
+      0.12,
+      0.1,
+      0.9,
+      0.86
+    ]
+  },
+  {
+    "case_id": "05-giant-panda",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9906279838472568,
+      1.0095417243556999
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 136,
+        "inliers": 113,
+        "subject_scale": 0.9952346474741794,
+        "translation_px": [
+          1.2132212691492312,
+          2.698765384843498
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 120,
+        "inliers": 87,
+        "subject_scale": 0.9996512131543012,
+        "translation_px": [
+          2.4522938382782544,
+          -1.6698589359705105
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 106,
+        "inliers": 65,
+        "subject_scale": 0.9989222390856293,
+        "translation_px": [
+          0.4050616396836876,
+          -0.1828845145505913
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 109,
+        "inliers": 61,
+        "subject_scale": 0.9962946236001909,
+        "translation_px": [
+          2.940901597271688,
+          1.1455707644470112
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 75,
+        "inliers": 32,
+        "subject_scale": 0.9989107754851946,
+        "translation_px": [
+          2.5200341387895593,
+          -0.7249449177502137
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 76,
+        "inliers": 26,
+        "subject_scale": 0.9930403013420066,
+        "translation_px": [
+          3.296563849036815,
+          -0.5075042643045347
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 110,
+        "inliers": 65,
+        "subject_scale": 0.9980483592309701,
+        "translation_px": [
+          4.000666223871843,
+          -1.4683558101838106
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 130,
+        "inliers": 65,
+        "subject_scale": 0.9913580856564089,
+        "translation_px": [
+          4.234934116310394,
+          5.476174644440435
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 106,
+        "inliers": 27,
+        "subject_scale": 1.0023830210655564,
+        "translation_px": [
+          1.2574545158655694,
+          -4.280933985158094
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 95,
+        "inliers": 51,
+        "subject_scale": 1.0095417243556999,
+        "translation_px": [
+          -1.365831347454759,
+          -9.025535627865281
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 92,
+        "inliers": 50,
+        "subject_scale": 0.9972087867339682,
+        "translation_px": [
+          2.7254708742944116,
+          0.14909955269781228
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 70,
+        "inliers": 22,
+        "subject_scale": 0.9906279838472568,
+        "translation_px": [
+          4.003251189423996,
+          1.8812668322929447
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 83,
+        "inliers": 48,
+        "subject_scale": 1.0063557099601603,
+        "translation_px": [
+          -1.1035684215928194,
+          -6.969473580965695
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 82,
+        "inliers": 33,
+        "subject_scale": 0.9962389167668065,
+        "translation_px": [
+          4.6709204068502554,
+          -0.8057818462983907
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 94,
+        "inliers": 61,
+        "subject_scale": 0.9968900492832742,
+        "translation_px": [
+          1.982633710118751,
+          0.9568172879568649
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 95,
+        "inliers": 67,
+        "subject_scale": 0.9975621332965706,
+        "translation_px": [
+          3.911322558282805,
+          -0.7119652909475488
+        ]
+      }
+    ],
+    "mask_box": [
+      0.19,
+      0.12,
+      0.87,
+      0.84
+    ]
+  },
+  {
+    "case_id": "06-rabbit",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      1.0037349362678238,
+      1.0136339895196969
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 282,
+        "inliers": 239,
+        "subject_scale": 1.0061428720904289,
+        "translation_px": [
+          -2.0718665675501096,
+          -4.5400186629164665
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 264,
+        "inliers": 205,
+        "subject_scale": 1.0078302005108306,
+        "translation_px": [
+          -3.432927671497433,
+          -7.442063066115862
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 247,
+        "inliers": 165,
+        "subject_scale": 1.0090882019213596,
+        "translation_px": [
+          -3.512754328508542,
+          -8.196339938088276
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 219,
+        "inliers": 159,
+        "subject_scale": 1.0127964375591112,
+        "translation_px": [
+          -5.358194497926261,
+          -10.390400229713432
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 215,
+        "inliers": 157,
+        "subject_scale": 1.0085641789541209,
+        "translation_px": [
+          -3.0476491625989315,
+          -7.794602445409224
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 225,
+        "inliers": 142,
+        "subject_scale": 1.0100394861807929,
+        "translation_px": [
+          -4.975696471337373,
+          -8.441151526058633
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 222,
+        "inliers": 116,
+        "subject_scale": 1.0062957611042807,
+        "translation_px": [
+          -1.8890061672960876,
+          -7.446467060769513
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 233,
+        "inliers": 155,
+        "subject_scale": 1.010165143301307,
+        "translation_px": [
+          -5.195890651393501,
+          -9.634087269479581
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 235,
+        "inliers": 156,
+        "subject_scale": 1.0134882282393252,
+        "translation_px": [
+          -3.587578199499818,
+          -11.199976406556985
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 245,
+        "inliers": 164,
+        "subject_scale": 1.0037349362678238,
+        "translation_px": [
+          0.5381582848242188,
+          -4.4879018576107415
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 276,
+        "inliers": 188,
+        "subject_scale": 1.0096063958978705,
+        "translation_px": [
+          -2.6377293628119487,
+          -9.672284434636364
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 278,
+        "inliers": 145,
+        "subject_scale": 1.0119298015345835,
+        "translation_px": [
+          -1.9643455337588878,
+          -10.400579504634027
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 246,
+        "inliers": 154,
+        "subject_scale": 1.007575308853333,
+        "translation_px": [
+          -1.136888299601802,
+          -9.012157165183803
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 254,
+        "inliers": 132,
+        "subject_scale": 1.0121362759759602,
+        "translation_px": [
+          -5.319493594928851,
+          -9.691178139764768
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 229,
+        "inliers": 149,
+        "subject_scale": 1.0128799799249606,
+        "translation_px": [
+          -4.4104162088645085,
+          -11.006943168154207
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 227,
+        "inliers": 154,
+        "subject_scale": 1.0136339895196969,
+        "translation_px": [
+          -4.786666138947622,
+          -11.666344210435835
+        ]
+      }
+    ],
+    "mask_box": [
+      0.2,
+      0.04,
+      0.82,
+      0.86
+    ]
+  },
+  {
+    "case_id": "07-raccoon",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      1.0026162591712864,
+      1.014852414022157
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 163,
+        "inliers": 142,
+        "subject_scale": 1.0028125031921082,
+        "translation_px": [
+          -0.07789696827194109,
+          -2.3049792266665703
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 169,
+        "inliers": 134,
+        "subject_scale": 1.0060871923151566,
+        "translation_px": [
+          -1.6825338236468348,
+          -5.110003976207135
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 169,
+        "inliers": 132,
+        "subject_scale": 1.0061841102998734,
+        "translation_px": [
+          -1.256728042737784,
+          -5.187949190047262
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 146,
+        "inliers": 93,
+        "subject_scale": 1.0075139838865226,
+        "translation_px": [
+          -1.3180538050993806,
+          -6.679628664643613
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 137,
+        "inliers": 64,
+        "subject_scale": 1.009307484908341,
+        "translation_px": [
+          -4.184318826451136,
+          -6.466629644426028
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 134,
+        "inliers": 46,
+        "subject_scale": 1.0133381106879085,
+        "translation_px": [
+          -2.0181790756590177,
+          -12.014285656073554
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 154,
+        "inliers": 58,
+        "subject_scale": 1.0026162591712864,
+        "translation_px": [
+          -4.741698570606716,
+          -0.6866998849327592
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 148,
+        "inliers": 94,
+        "subject_scale": 1.0099564011755502,
+        "translation_px": [
+          -2.5583110896694508,
+          -7.9053053062154675
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 155,
+        "inliers": 81,
+        "subject_scale": 1.0118668840351526,
+        "translation_px": [
+          -3.651883970048677,
+          -10.40713164276767
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 141,
+        "inliers": 73,
+        "subject_scale": 1.0095241750529327,
+        "translation_px": [
+          -2.9134240774297693,
+          -8.37797515342692
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 145,
+        "inliers": 95,
+        "subject_scale": 1.0098166194502638,
+        "translation_px": [
+          -2.375058559061597,
+          -7.961516577078605
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 154,
+        "inliers": 123,
+        "subject_scale": 1.0054757635797547,
+        "translation_px": [
+          -0.5111351061314099,
+          -5.414167752069995
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 141,
+        "inliers": 81,
+        "subject_scale": 1.014852414022157,
+        "translation_px": [
+          -2.762554644027059,
+          -12.66681623066337
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 134,
+        "inliers": 54,
+        "subject_scale": 1.007355259180325,
+        "translation_px": [
+          -1.5532881843121236,
+          -6.153097548994631
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 153,
+        "inliers": 76,
+        "subject_scale": 1.010364711328,
+        "translation_px": [
+          -1.8624494263190154,
+          -8.8173277271758
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 160,
+        "inliers": 87,
+        "subject_scale": 1.0085518331325274,
+        "translation_px": [
+          -1.8304026313770003,
+          -7.746176496610395
+        ]
+      }
+    ],
+    "mask_box": [
+      0.25,
+      0.1,
+      0.81,
+      0.85
+    ]
+  },
+  {
+    "case_id": "08-red-squirrel",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "review",
+    "scale_range": [
+      0.9909712599298756,
+      1.0132505593218513
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 141,
+        "inliers": 124,
+        "subject_scale": 1.0008554333340214,
+        "translation_px": [
+          -0.12119186700715073,
+          -0.9205928030327856
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 128,
+        "inliers": 115,
+        "subject_scale": 1.0042683567419302,
+        "translation_px": [
+          -1.2852163585224412,
+          -3.539853274375826
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 139,
+        "inliers": 121,
+        "subject_scale": 1.0077682874979912,
+        "translation_px": [
+          -3.5154793325397082,
+          -6.642757547254844
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 18,
+        "inliers": 13,
+        "subject_scale": 1.0194207105488777,
+        "translation_px": [
+          -9.315509387280642,
+          -17.125018919032367
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 23,
+        "inliers": 11,
+        "subject_scale": 1.0202448210904593,
+        "translation_px": [
+          -13.367861571768382,
+          -16.965005736183464
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 62,
+        "inliers": 40,
+        "subject_scale": 0.9965576513900418,
+        "translation_px": [
+          6.1686846889576215,
+          -10.697833735796486
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 67,
+        "inliers": 38,
+        "subject_scale": 0.9978205720071006,
+        "translation_px": [
+          0.09731510764125129,
+          -7.346895050692343
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 65,
+        "inliers": 34,
+        "subject_scale": 1.0132505593218513,
+        "translation_px": [
+          -6.05097596666387,
+          -12.217931442535681
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 66,
+        "inliers": 42,
+        "subject_scale": 0.9909712599298756,
+        "translation_px": [
+          1.2740392495521526,
+          -3.8716169776558544
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 15,
+        "inliers": 11,
+        "subject_scale": 1.0156526074844603,
+        "translation_px": [
+          -4.795513740216844,
+          -14.752640232930737
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 15,
+        "inliers": 9,
+        "subject_scale": 1.0149321849394892,
+        "translation_px": [
+          -8.606554094337733,
+          -13.19804443513901
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 17,
+        "inliers": 7,
+        "subject_scale": 1.015191055805321,
+        "translation_px": [
+          -6.797901042067109,
+          -14.258339938684651
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 13,
+        "inliers": 8,
+        "subject_scale": 1.0183311906972061,
+        "translation_px": [
+          -9.367544635615012,
+          -16.429652024891265
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 14,
+        "inliers": 3,
+        "subject_scale": 0.9153432725796257,
+        "translation_px": [
+          24.6646579530731,
+          38.28565879823338
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 59,
+        "inliers": 34,
+        "subject_scale": 1.009416547885085,
+        "translation_px": [
+          2.8016251593161456,
+          -17.370255059906153
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 60,
+        "inliers": 40,
+        "subject_scale": 0.9932190557894499,
+        "translation_px": [
+          9.112027255954706,
+          -9.009939104528664
+        ]
+      }
+    ],
+    "mask_box": [
+      0.25,
+      0.14,
+      0.79,
+      0.88
+    ]
+  },
+  {
+    "case_id": "09-brown-bear",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.991951762347021,
+      1.0068624487684494
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 233,
+        "inliers": 200,
+        "subject_scale": 0.9961809506672271,
+        "translation_px": [
+          1.8505065814081585,
+          2.2192918510366564
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 205,
+        "inliers": 142,
+        "subject_scale": 1.0009013949438152,
+        "translation_px": [
+          0.8558461170358075,
+          -2.819012951706716
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 221,
+        "inliers": 128,
+        "subject_scale": 0.9986583738801474,
+        "translation_px": [
+          0.9293549089010149,
+          -0.75015353641674
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 176,
+        "inliers": 57,
+        "subject_scale": 0.9930522253246765,
+        "translation_px": [
+          2.9530935994475507,
+          3.730591689048289
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 193,
+        "inliers": 105,
+        "subject_scale": 1.001462108407322,
+        "translation_px": [
+          3.9987223416996356,
+          -4.143857291719997
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 206,
+        "inliers": 77,
+        "subject_scale": 1.0002142327247003,
+        "translation_px": [
+          2.418105747992736,
+          -2.554677815814405
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 181,
+        "inliers": 66,
+        "subject_scale": 1.0034015732126353,
+        "translation_px": [
+          -0.2893658699800045,
+          -4.676003225885426
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 218,
+        "inliers": 151,
+        "subject_scale": 0.991951762347021,
+        "translation_px": [
+          7.172940727971287,
+          3.774360817300296
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 217,
+        "inliers": 129,
+        "subject_scale": 0.9998173890370167,
+        "translation_px": [
+          1.1484934975551322,
+          -2.567074930643379
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 194,
+        "inliers": 119,
+        "subject_scale": 1.0068624487684494,
+        "translation_px": [
+          -5.691019343114261,
+          -5.895068405613928
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 175,
+        "inliers": 67,
+        "subject_scale": 1.0042407582406032,
+        "translation_px": [
+          -3.3075481792759804,
+          -4.996558982354262
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 203,
+        "inliers": 136,
+        "subject_scale": 0.9979777342846792,
+        "translation_px": [
+          2.4602279102440714,
+          0.11503994152731883
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 206,
+        "inliers": 67,
+        "subject_scale": 0.9965324660808635,
+        "translation_px": [
+          6.159190099051476,
+          -0.022861994823631604
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 180,
+        "inliers": 86,
+        "subject_scale": 1.0062478667293409,
+        "translation_px": [
+          2.0966017454886625,
+          -8.438426376533723
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 201,
+        "inliers": 128,
+        "subject_scale": 1.0017177875990664,
+        "translation_px": [
+          3.7742451416282132,
+          -4.956533304504666
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 211,
+        "inliers": 148,
+        "subject_scale": 0.9948195911723016,
+        "translation_px": [
+          8.854556687061939,
+          0.7772860643636358
+        ]
+      }
+    ],
+    "mask_box": [
+      0.16,
+      0.14,
+      0.87,
+      0.83
+    ]
+  },
+  {
+    "case_id": "10-koala",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.997714068390668,
+      1.0054253333910477
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 479,
+        "inliers": 432,
+        "subject_scale": 1.000580666437257,
+        "translation_px": [
+          0.1838340515170831,
+          -1.5877407667663572
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 428,
+        "inliers": 350,
+        "subject_scale": 1.0017285033403407,
+        "translation_px": [
+          -1.028882237475602,
+          -1.6395189937972574
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 446,
+        "inliers": 286,
+        "subject_scale": 0.997714068390668,
+        "translation_px": [
+          0.3197806221926345,
+          1.5620683959504797
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 110,
+        "inliers": 90,
+        "subject_scale": 1.0007044893443189,
+        "translation_px": [
+          -0.8039226566892322,
+          -0.8911255558189141
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 98,
+        "inliers": 76,
+        "subject_scale": 1.000866521825292,
+        "translation_px": [
+          0.9426869671638864,
+          -1.8556278647626838
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 98,
+        "inliers": 76,
+        "subject_scale": 1.001100595319269,
+        "translation_px": [
+          -2.0806121855166735,
+          -0.588970969548991
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 94,
+        "inliers": 74,
+        "subject_scale": 0.9996497639708042,
+        "translation_px": [
+          1.870924403312321,
+          -1.188762228653083
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 84,
+        "inliers": 76,
+        "subject_scale": 1.0013483653730244,
+        "translation_px": [
+          -0.11369405842294533,
+          -2.0086192075804084
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 100,
+        "inliers": 82,
+        "subject_scale": 1.0013948765194622,
+        "translation_px": [
+          -0.4581593512713247,
+          -1.521275027770045
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 92,
+        "inliers": 80,
+        "subject_scale": 1.0019861904455696,
+        "translation_px": [
+          -0.4070255358792305,
+          -2.088643229092032
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 98,
+        "inliers": 78,
+        "subject_scale": 1.0004369048138007,
+        "translation_px": [
+          2.7786570107109667,
+          -2.3678129952163673
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 103,
+        "inliers": 79,
+        "subject_scale": 1.0026433539282933,
+        "translation_px": [
+          1.237151812005094,
+          -3.4528223156779343
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 100,
+        "inliers": 76,
+        "subject_scale": 1.0003773786504784,
+        "translation_px": [
+          -1.9840846682785138,
+          -0.10098497872148623
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 413,
+        "inliers": 329,
+        "subject_scale": 1.0054253333910477,
+        "translation_px": [
+          -1.226978604057178,
+          -4.854970363259458
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 454,
+        "inliers": 374,
+        "subject_scale": 1.0013338743597886,
+        "translation_px": [
+          -0.05559430434664203,
+          -1.7501091950347796
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 441,
+        "inliers": 312,
+        "subject_scale": 0.9997057295625138,
+        "translation_px": [
+          0.9730815306645388,
+          -0.8346810425518059
+        ]
+      }
+    ],
+    "mask_box": [
+      0.2,
+      0.11,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "case_id": "11-giraffe",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9936904619607936,
+      0.998993546871318
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 392,
+        "inliers": 344,
+        "subject_scale": 0.9950721870579716,
+        "translation_px": [
+          2.5121377242322964,
+          2.4657954888203246
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 356,
+        "inliers": 283,
+        "subject_scale": 0.9980746527458243,
+        "translation_px": [
+          2.157151822855276,
+          -0.9225487609644178
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 387,
+        "inliers": 308,
+        "subject_scale": 0.9936904619607936,
+        "translation_px": [
+          3.4094962054476556,
+          2.503610496894029
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 379,
+        "inliers": 278,
+        "subject_scale": 0.9957334100956989,
+        "translation_px": [
+          1.3245410218221405,
+          1.6153933375181189
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 386,
+        "inliers": 327,
+        "subject_scale": 0.9977024523131732,
+        "translation_px": [
+          -0.10425508889619706,
+          0.9593511428799791
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 399,
+        "inliers": 331,
+        "subject_scale": 0.9983608209130928,
+        "translation_px": [
+          2.1877571723189586,
+          -0.10202052539044182
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 370,
+        "inliers": 331,
+        "subject_scale": 0.9950800087644568,
+        "translation_px": [
+          0.8622102818409576,
+          3.3803926459782483
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 329,
+        "inliers": 299,
+        "subject_scale": 0.9963033413881932,
+        "translation_px": [
+          1.6152313135178669,
+          2.0437750811402613
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 341,
+        "inliers": 309,
+        "subject_scale": 0.9942525818017093,
+        "translation_px": [
+          0.7913514774435567,
+          4.569222803943863
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 332,
+        "inliers": 211,
+        "subject_scale": 0.9966388245043641,
+        "translation_px": [
+          1.629585498587831,
+          -0.8389315680224526
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 381,
+        "inliers": 273,
+        "subject_scale": 0.998993546871318,
+        "translation_px": [
+          -1.7094614180841277,
+          -0.14005903784501433
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 377,
+        "inliers": 291,
+        "subject_scale": 0.9971705314112349,
+        "translation_px": [
+          2.170596447101052,
+          0.3616280279104202
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 380,
+        "inliers": 351,
+        "subject_scale": 0.9969126326147694,
+        "translation_px": [
+          0.686527337031437,
+          1.5538986190749944
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 382,
+        "inliers": 351,
+        "subject_scale": 0.9974478411473633,
+        "translation_px": [
+          2.9467304626511326,
+          0.5604365936931175
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 366,
+        "inliers": 317,
+        "subject_scale": 0.9938378915962293,
+        "translation_px": [
+          3.700593445424916,
+          3.0103419371959856
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 366,
+        "inliers": 296,
+        "subject_scale": 0.997194339091001,
+        "translation_px": [
+          3.6643826320490565,
+          0.5932424082932457
+        ]
+      }
+    ],
+    "mask_box": [
+      0.2,
+      0.03,
+      0.82,
+      0.93
+    ]
+  },
+  {
+    "case_id": "12-zebra",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      1.0040655925143525,
+      1.0112137636927672
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 304,
+        "inliers": 256,
+        "subject_scale": 1.0051702824233515,
+        "translation_px": [
+          -1.251540733487255,
+          -3.063768962702113
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 299,
+        "inliers": 238,
+        "subject_scale": 1.009257477442102,
+        "translation_px": [
+          -2.6136793131443814,
+          -6.194143061780761
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 239,
+        "inliers": 126,
+        "subject_scale": 1.0102223993831474,
+        "translation_px": [
+          -0.6366514429669607,
+          -8.766606623861987
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 255,
+        "inliers": 130,
+        "subject_scale": 1.0059292230333685,
+        "translation_px": [
+          -1.2018553458790167,
+          -2.9759423421723876
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 207,
+        "inliers": 150,
+        "subject_scale": 1.009225015051215,
+        "translation_px": [
+          -4.270707997464857,
+          -6.02745947480052
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 295,
+        "inliers": 200,
+        "subject_scale": 1.0109120420202216,
+        "translation_px": [
+          -4.7532023189711925,
+          -6.9302814433634845
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 288,
+        "inliers": 232,
+        "subject_scale": 1.007011573789196,
+        "translation_px": [
+          -2.0981396148908154,
+          -3.599615575853585
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 256,
+        "inliers": 191,
+        "subject_scale": 1.011187357698673,
+        "translation_px": [
+          -2.347687135418467,
+          -7.709241600225976
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 261,
+        "inliers": 155,
+        "subject_scale": 1.0086470443931297,
+        "translation_px": [
+          -1.333282929175767,
+          -4.36180109991507
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 256,
+        "inliers": 176,
+        "subject_scale": 1.0079360469286112,
+        "translation_px": [
+          1.892239462185148,
+          -6.670248246128989
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 255,
+        "inliers": 179,
+        "subject_scale": 1.0064097950734128,
+        "translation_px": [
+          1.306037156050423,
+          -3.6881724874945006
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 242,
+        "inliers": 139,
+        "subject_scale": 1.0062776723204032,
+        "translation_px": [
+          -2.217429793861333,
+          -2.911437530226948
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 227,
+        "inliers": 164,
+        "subject_scale": 1.0072722340233047,
+        "translation_px": [
+          1.1220625382327294,
+          -4.971694884762136
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 267,
+        "inliers": 211,
+        "subject_scale": 1.0040655925143525,
+        "translation_px": [
+          2.3249855746886148,
+          -2.5411545972846454
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 259,
+        "inliers": 158,
+        "subject_scale": 1.0112137636927672,
+        "translation_px": [
+          -0.2122750751728626,
+          -7.212567275301362
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 246,
+        "inliers": 152,
+        "subject_scale": 1.0093250255052293,
+        "translation_px": [
+          1.2032857495717615,
+          -7.693192527127638
+        ]
+      }
+    ],
+    "mask_box": [
+      0.14,
+      0.09,
+      0.86,
+      0.9
+    ]
+  },
+  {
+    "case_id": "13-elephant",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      1.0009610503944089,
+      1.0090929192645002
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 250,
+        "inliers": 180,
+        "subject_scale": 1.0034863720489284,
+        "translation_px": [
+          -1.9056809427946746,
+          -0.3477263439381495
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 237,
+        "inliers": 95,
+        "subject_scale": 1.0078326135434046,
+        "translation_px": [
+          -1.5985383324299902,
+          -3.842752412864375
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 234,
+        "inliers": 125,
+        "subject_scale": 1.0019123651779036,
+        "translation_px": [
+          0.307467538333817,
+          1.5926649005099849
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 224,
+        "inliers": 90,
+        "subject_scale": 1.0027690835061525,
+        "translation_px": [
+          1.7593670361706553,
+          -0.25541975279171153
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 207,
+        "inliers": 80,
+        "subject_scale": 1.0038777227975997,
+        "translation_px": [
+          -2.0519205711178072,
+          0.06194780897165416
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 177,
+        "inliers": 72,
+        "subject_scale": 1.0009610503944089,
+        "translation_px": [
+          -0.7694362428583299,
+          2.2891542511916234
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 135,
+        "inliers": 56,
+        "subject_scale": 1.0029162113858292,
+        "translation_px": [
+          -1.0030656471696857,
+          1.1236737586182808
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 95,
+        "inliers": 42,
+        "subject_scale": 1.00401304946112,
+        "translation_px": [
+          -2.31746659405662,
+          0.5190768311698268
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 99,
+        "inliers": 36,
+        "subject_scale": 1.004887289750913,
+        "translation_px": [
+          -0.6812931539563041,
+          -0.22129199212242545
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 146,
+        "inliers": 37,
+        "subject_scale": 1.0069517063512943,
+        "translation_px": [
+          -0.36363676691069147,
+          -1.8684386457718734
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 212,
+        "inliers": 60,
+        "subject_scale": 1.0027458155405906,
+        "translation_px": [
+          -1.5170703016974603,
+          1.4163051431001343
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 179,
+        "inliers": 61,
+        "subject_scale": 1.0043136535677422,
+        "translation_px": [
+          0.20986639788581102,
+          -0.207229452397445
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 163,
+        "inliers": 49,
+        "subject_scale": 1.0036930348229727,
+        "translation_px": [
+          -0.9593643643421549,
+          0.33434645233428406
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 183,
+        "inliers": 63,
+        "subject_scale": 1.0025973215844062,
+        "translation_px": [
+          1.2556504899804641,
+          0.6788265217084103
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 209,
+        "inliers": 79,
+        "subject_scale": 1.0090929192645002,
+        "translation_px": [
+          -5.888218138801048,
+          -3.2106879279328058
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 229,
+        "inliers": 92,
+        "subject_scale": 1.0034845034378543,
+        "translation_px": [
+          -0.49458673020582267,
+          -0.03947973379204717
+        ]
+      }
+    ],
+    "mask_box": [
+      0.01,
+      0.11,
+      0.99,
+      0.89
+    ]
+  },
+  {
+    "case_id": "14-rhinoceros",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9918620572058613,
+      1.0052924371186955
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 198,
+        "inliers": 174,
+        "subject_scale": 1.000410789710726,
+        "translation_px": [
+          -0.9224343923778578,
+          0.3833143781135396
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 176,
+        "inliers": 149,
+        "subject_scale": 0.9991950129239174,
+        "translation_px": [
+          1.19510868533241,
+          0.8149578131591709
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 156,
+        "inliers": 100,
+        "subject_scale": 1.0039645055175648,
+        "translation_px": [
+          -2.5929367162279258,
+          -2.9801510056367064
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 157,
+        "inliers": 107,
+        "subject_scale": 1.0005563346844422,
+        "translation_px": [
+          -0.8770233377501476,
+          -0.6860571828313002
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 161,
+        "inliers": 93,
+        "subject_scale": 0.998071684044982,
+        "translation_px": [
+          6.750488742114708,
+          -0.9746127631885602
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 151,
+        "inliers": 114,
+        "subject_scale": 1.000218987164769,
+        "translation_px": [
+          -4.627499029924508,
+          0.32571022509721376
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 158,
+        "inliers": 89,
+        "subject_scale": 0.9918620572058613,
+        "translation_px": [
+          2.543739787718721,
+          2.729482535316113
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 151,
+        "inliers": 105,
+        "subject_scale": 0.9964696875803547,
+        "translation_px": [
+          3.631182312725837,
+          2.203111161031869
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 166,
+        "inliers": 80,
+        "subject_scale": 1.0001695778323532,
+        "translation_px": [
+          -0.5466550385066298,
+          0.1439563002599638
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 187,
+        "inliers": 99,
+        "subject_scale": 1.0052924371186955,
+        "translation_px": [
+          -0.020375524507666887,
+          -6.070811196007768
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 143,
+        "inliers": 79,
+        "subject_scale": 1.0011893440468502,
+        "translation_px": [
+          -0.25944379765961856,
+          -0.35375163742645577
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 161,
+        "inliers": 91,
+        "subject_scale": 0.9965057325842457,
+        "translation_px": [
+          4.9741670452051565,
+          1.0236495151144045
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 157,
+        "inliers": 77,
+        "subject_scale": 0.995601074845086,
+        "translation_px": [
+          4.409924888977461,
+          5.636669855821392
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 180,
+        "inliers": 117,
+        "subject_scale": 0.9989791204078314,
+        "translation_px": [
+          -2.4485499971551645,
+          2.514788542207188
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 161,
+        "inliers": 105,
+        "subject_scale": 0.9966020611488288,
+        "translation_px": [
+          4.722755978502327,
+          1.2206168673946016
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 158,
+        "inliers": 76,
+        "subject_scale": 0.9923115237307757,
+        "translation_px": [
+          3.808540949136323,
+          8.42971741476946
+        ]
+      }
+    ],
+    "mask_box": [
+      0.17,
+      0.15,
+      0.88,
+      0.87
+    ]
+  },
+  {
+    "case_id": "15-hippopotamus",
+    "method": "SIFT matches inside central animal rectangle; RANSAC partial affine scale every second plus the final native frame. This is a framing screen, not a lip-sync score.",
+    "verdict": "pass",
+    "scale_range": [
+      0.9946532400889881,
+      1.0099468239493774
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "second": 0.0,
+        "matches": 135,
+        "inliers": 104,
+        "subject_scale": 0.9961331330955792,
+        "translation_px": [
+          2.2975637876581056,
+          2.2232347648482924
+        ]
+      },
+      {
+        "frame": 24,
+        "second": 1.0,
+        "matches": 96,
+        "inliers": 42,
+        "subject_scale": 1.0059633675382849,
+        "translation_px": [
+          0.6813934965411903,
+          -6.80717814891615
+        ]
+      },
+      {
+        "frame": 48,
+        "second": 2.0,
+        "matches": 50,
+        "inliers": 26,
+        "subject_scale": 1.0063317076341298,
+        "translation_px": [
+          -2.6418491824692363,
+          -6.140329567274315
+        ]
+      },
+      {
+        "frame": 72,
+        "second": 3.0,
+        "matches": 117,
+        "inliers": 71,
+        "subject_scale": 1.0028986969084392,
+        "translation_px": [
+          0.3722284691570344,
+          -3.6650705112187
+        ]
+      },
+      {
+        "frame": 96,
+        "second": 4.0,
+        "matches": 65,
+        "inliers": 28,
+        "subject_scale": 1.0001312991310256,
+        "translation_px": [
+          -2.2007187777800024,
+          0.05320742721868443
+        ]
+      },
+      {
+        "frame": 120,
+        "second": 5.0,
+        "matches": 106,
+        "inliers": 53,
+        "subject_scale": 1.0011668067776038,
+        "translation_px": [
+          -0.0658451201408562,
+          -1.6409509803976239
+        ]
+      },
+      {
+        "frame": 144,
+        "second": 6.0,
+        "matches": 125,
+        "inliers": 90,
+        "subject_scale": 0.9963716327367379,
+        "translation_px": [
+          5.806793132187417,
+          1.2809507859290301
+        ]
+      },
+      {
+        "frame": 168,
+        "second": 7.0,
+        "matches": 75,
+        "inliers": 34,
+        "subject_scale": 1.0003426281727552,
+        "translation_px": [
+          -0.007124908445579559,
+          -1.3578243070667002
+        ]
+      },
+      {
+        "frame": 192,
+        "second": 8.0,
+        "matches": 99,
+        "inliers": 48,
+        "subject_scale": 1.003602618384161,
+        "translation_px": [
+          -1.520154852353353,
+          -3.875188307985629
+        ]
+      },
+      {
+        "frame": 216,
+        "second": 9.0,
+        "matches": 94,
+        "inliers": 51,
+        "subject_scale": 0.9991686969349489,
+        "translation_px": [
+          -1.3097729694763645,
+          0.45725454673884125
+        ]
+      },
+      {
+        "frame": 240,
+        "second": 10.0,
+        "matches": 81,
+        "inliers": 34,
+        "subject_scale": 0.9986973150853641,
+        "translation_px": [
+          -1.060817374668793,
+          0.9580192887251875
+        ]
+      },
+      {
+        "frame": 264,
+        "second": 11.0,
+        "matches": 88,
+        "inliers": 42,
+        "subject_scale": 1.0099468239493774,
+        "translation_px": [
+          -1.4954893865628822,
+          -10.310664898725669
+        ]
+      },
+      {
+        "frame": 288,
+        "second": 12.0,
+        "matches": 72,
+        "inliers": 30,
+        "subject_scale": 0.998651107526385,
+        "translation_px": [
+          -2.7003133747867034,
+          1.9412722306125842
+        ]
+      },
+      {
+        "frame": 312,
+        "second": 13.0,
+        "matches": 92,
+        "inliers": 44,
+        "subject_scale": 1.0078650606527486,
+        "translation_px": [
+          -3.4333711892543177,
+          -7.178782696250953
+        ]
+      },
+      {
+        "frame": 336,
+        "second": 14.0,
+        "matches": 98,
+        "inliers": 66,
+        "subject_scale": 0.9995099389650453,
+        "translation_px": [
+          0.2342308362882273,
+          -0.19063841569347578
+        ]
+      },
+      {
+        "frame": 359,
+        "second": 14.958333333333334,
+        "matches": 93,
+        "inliers": 47,
+        "subject_scale": 0.9946532400889881,
+        "translation_px": [
+          3.493033452660035,
+          2.0895259628017953
+        ]
+      }
+    ],
+    "mask_box": [
+      0.21,
+      0.21,
+      0.84,
+      0.86
+    ]
+  }
+]

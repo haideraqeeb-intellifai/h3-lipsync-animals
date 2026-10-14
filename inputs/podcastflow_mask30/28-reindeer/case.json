@@ -1,0 +1,38 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e4-6ec9-724f-91ab-cf806be376fd.mp4",
+  "animal": "Reindeer",
+  "presenter": "Rumi Reindeer",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/rumi-reindeer-01a136e4-19e1-711f-9fae-ed4041b378e0-headshot.jpg",
+  "id": "28-reindeer",
+  "number": 28,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "c7d81b04c8052915b1f1990aaa20079db50227d78e0bf44d978b07a506b14110",
+  "audio_sha256": "046dbbe4fa29d287bb87dc19191dd6a6ab04e94bb776431f62be1cba46f1106d",
+  "animal_mask_box": [
+    0.27,
+    0.0,
+    0.78,
+    0.93
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "aa4f4f0147436da6ced546c72287b0e53d945c856e796f704ef2e0712bf58b91",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "c7d81b04c8052915b1f1990aaa20079db50227d78e0bf44d978b07a506b14110",
+    "audio.wav": "046dbbe4fa29d287bb87dc19191dd6a6ab04e94bb776431f62be1cba46f1106d",
+    "prompt.txt": "5c9017e57468d6c5e796c68a32e6a78d5d0689561b66e70bd785c17518a0b257"
+  }
+}

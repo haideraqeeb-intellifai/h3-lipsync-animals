@@ -1,0 +1,38 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136dd-784d-7266-9c48-37c63ce42c50.mp4",
+  "animal": "Zebra",
+  "presenter": "Zelda Zebra",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/zelda-zebra-01a136dd-2967-735d-bc6a-0ffe5733145c-headshot.jpg",
+  "id": "12-zebra",
+  "number": 12,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "2f93b520d4f08feac98e53e5c81020d1a2a90d61d29da1701e81ab8683eb99f5",
+  "audio_sha256": "73816c9304527f18a024e56afb1a309805d7a57feef39f7b26fdc5b1fb1488c7",
+  "animal_mask_box": [
+    0.14,
+    0.09,
+    0.86,
+    0.9
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "3bcc99f6ebe53702a93e17025faef364867ccc5312edfcf8279e37518e478850",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "2f93b520d4f08feac98e53e5c81020d1a2a90d61d29da1701e81ab8683eb99f5",
+    "audio.wav": "73816c9304527f18a024e56afb1a309805d7a57feef39f7b26fdc5b1fb1488c7",
+    "prompt.txt": "6a51b1f86501b3d2bbe878afaf568d829898e910d1e05b0f63bffa9b8065974a"
+  }
+}

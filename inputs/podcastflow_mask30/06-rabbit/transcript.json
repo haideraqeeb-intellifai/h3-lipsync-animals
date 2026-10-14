@@ -1,0 +1,27 @@
+{
+  "text": "Hello there dear friend, it is me Rosie, grab a cozy seat. Today we are chatting about something small, yes the magic of a tiny creative habit. Do you ever feel like your day just slips away? Between gathering clover and keeping the burrow tidy, I often-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Hello there dear friend, it is me Rosie, grab a cozy seat."
+    },
+    {
+      "start": 3.44,
+      "end": 8.64,
+      "text": "Today we are chatting about something small, yes the magic of a tiny creative habit."
+    },
+    {
+      "start": 8.64,
+      "end": 10.8,
+      "text": "Do you ever feel like your day just slips away?"
+    },
+    {
+      "start": 11.36,
+      "end": 14.88,
+      "text": "Between gathering clover and keeping the burrow tidy, I often-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

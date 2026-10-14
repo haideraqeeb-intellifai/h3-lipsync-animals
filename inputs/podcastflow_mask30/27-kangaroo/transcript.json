@@ -1,0 +1,22 @@
+{
+  "text": "Good morning friends! It is your pal Kai here, bouncing into the sunshine. Do you ever feel like your brain is a pouch full of loose marbles at dawn? I get that feeling a lot. My ears twitch, my tail taps, and I start thinking-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Good morning friends! It is your pal Kai here, bouncing into the sunshine."
+    },
+    {
+      "start": 5.2,
+      "end": 10.0,
+      "text": "Do you ever feel like your brain is a pouch full of loose marbles at dawn?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.88,
+      "text": "I get that feeling a lot. My ears twitch, my tail taps, and I start thinking-"
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

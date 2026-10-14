@@ -1,0 +1,27 @@
+{
+  "text": "Hello there, dear friends! It is your pal Eli the Elephant here. Have you ever noticed how the smallest things bring the biggest smiles? I love the way the morning dew feels on my toes. It is cool, fresh, and reminds me that a brand new day is just...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello there, dear friends! It is your pal Eli the Elephant here."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Have you ever noticed how the smallest things bring the biggest smiles?"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "I love the way the morning dew feels on my toes."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "It is cool, fresh, and reminds me that a brand new day is just..."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

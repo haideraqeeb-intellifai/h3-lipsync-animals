@@ -1,0 +1,24 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136df-b594-72e0-be6d-927dce3de5f7.mp4",
+  "animal": "Snow Leopard",
+  "presenter": "Luna Snow Leopard",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/luna-snow-leopard-01a136df-73c9-719e-9ee6-0d9cb4008558-headshot.jpg",
+  "id": "18-snow-leopard",
+  "number": 18,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "96cb5c27b00225d85493d52ef8f772924d86a3fe88ff24b49a28f5d26df6ed35",
+  "audio_sha256": "2f7459174fba58b61575888ae03b19e728696c4c6a69a6cbb6ceb0a09091d13b"
+}

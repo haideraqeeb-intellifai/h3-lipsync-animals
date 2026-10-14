@@ -1,0 +1,27 @@
+{
+  "text": "Hello friends, it is Roomie here. Today I want to talk about how you can start your own magical seasonal ritual. It doesn't have to be big or complicated at all. Think about something small.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello friends, it is Roomie here."
+    },
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "text": "Today I want to talk about how you can start your own magical seasonal ritual."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "It doesn't have to be big or complicated at all."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Think about something small."
+    }
+  ],
+  "model": "Systran/faster-whisper-small.en",
+  "purpose": "Approximate source speech for prompt grounding; audio remains authoritative"
+}

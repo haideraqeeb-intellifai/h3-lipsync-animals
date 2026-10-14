@@ -1,0 +1,38 @@
+{
+  "display_ratio": "16:9",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136e0-1eb7-731f-a735-735fed9c3c40.mp4",
+  "animal": "Cheetah",
+  "presenter": "Chester Cheetah",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/chester-cheetah-01a136df-cce2-7054-a281-f5e35001fec1-headshot.jpg",
+  "id": "19-cheetah",
+  "number": 19,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    1344,
+    768
+  ],
+  "width": 1120,
+  "height": 640,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "a9deb60e2fa43c0c4516b22f4b7d44a85499e57fca43d05c0c653c8b107888ed",
+  "audio_sha256": "e3ca4117f900a7dd38986f22c391454fb2be11d4e41b1ee36c08ecd04c5dcea0",
+  "animal_mask_box": [
+    0.17,
+    0.05,
+    0.84,
+    0.94
+  ],
+  "freeze_prompt": true,
+  "prompt_template_sha256": "60c71a82fa53ecbdd578196dcb8aa3b9b238807d9439b9d4cd6ec96c30822c01",
+  "transcript_sha256": "4aa5f9e45c32268c1c1069f5d5c445385e651d56943cd6671520316fd8f116a4",
+  "prepared_inputs_sha256": {
+    "reference.jpg": "a9deb60e2fa43c0c4516b22f4b7d44a85499e57fca43d05c0c653c8b107888ed",
+    "audio.wav": "e3ca4117f900a7dd38986f22c391454fb2be11d4e41b1ee36c08ecd04c5dcea0",
+    "prompt.txt": "17d5dcb930eadcd6370caaf484b74c6d697b7ba674737e2511b8eadda70ee666"
+  }
+}

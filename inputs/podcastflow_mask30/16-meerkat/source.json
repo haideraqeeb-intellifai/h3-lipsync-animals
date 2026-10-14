@@ -1,0 +1,24 @@
+{
+  "display_ratio": "9:16",
+  "source_video_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/podcasts/renders/podcast-01a136de-f52b-70fe-a8b0-ad8ded548729.mp4",
+  "animal": "Meerkat",
+  "presenter": "Mira Meerkat",
+  "reference_url": "https://cdn.podcastflow.ai/user-assets/staging/2026/10/13/avatars/headshots/mira-meerkat-01a136de-9faa-71f7-a9ac-afe93533c31e-headshot.jpg",
+  "id": "16-meerkat",
+  "number": 16,
+  "reference_filename": "reference.jpg",
+  "reference_size": [
+    768,
+    1344
+  ],
+  "width": 640,
+  "height": 1120,
+  "native_frames": 362,
+  "duration_seconds": 15,
+  "seed": 42,
+  "ref_image_size": "match",
+  "source_report_url": "https://s3.renderplatform.com/user-assets/preview/agent/reports/podcastflow-animal-30-videos-20261014/index.html",
+  "source_report_sha256": "82111dd73fa1543b8a66488b7aa129c6edaeeaf09f80d38338d3b4c7a676c860",
+  "reference_sha256": "bde740901ba20b11bc6d21fc963e770c92537d2e18d2060643ea96a11f9c3f76",
+  "audio_sha256": "89f4bd0a2d73ace9bc9c4ab53e8b667361eaf398bb633bc900c70e923623bdc1"
+}
